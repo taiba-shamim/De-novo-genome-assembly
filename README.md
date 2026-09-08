@@ -1,2 +1,23 @@
-# De-novo-genome-assembly
-End-to-end de novo genome assembly, quality assessment, functional annotation, and pathway analysis of Limosilactobacillus fermentum using NGS data
+# De novo Genome Assembly and Functional Annotation of # Limosilactobacillus fermentum
+
+## Pipeline
+
+The analysis includes:
+
+Raw reads
+    ↓
+SRA Toolkit
+    ↓
+FastQC
+    ↓
+fastp
+    ↓
+SPAdes
+    ↓
+QUAST
+    ↓
+Prokka
+    ↓
+IGV
+    ↓
+KEGG / BlastKOALA
