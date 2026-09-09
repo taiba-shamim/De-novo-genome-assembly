@@ -1,0 +1,14 @@
+name: limosilactobacillus-fermentum-genome-analysis
+
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  - sra-tools
+  - fastqc
+  - fastp
+  - spades
+  - quast
+  - prokka
