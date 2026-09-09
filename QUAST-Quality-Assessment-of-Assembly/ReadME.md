@@ -15,12 +15,8 @@ quast spades_output/contigs.fasta \
 
 ### Assembly Statistics
 
-| Metric | Result |
-|---|---:|
-| Number of contigs | 582 |
-| N50 | 28,549 bp |
-| Largest contig | 105,244 bp |
-| Total assembled size | 2,004,667 bp (~2.0 Mb) |
+<img width="557" height="248" alt="image" src="https://github.com/user-attachments/assets/eadf6d3b-bda0-4621-a23f-9235da8913e2" />
+
 
 QUAST generated graphical and statistical summaries of the assembly, including GC content, coverage, cumulative length, and Nx-related statistics.
 
