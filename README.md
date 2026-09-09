@@ -12,20 +12,6 @@ The analysis uses paired-end FASTQ reads generated from the SRA dataset.
 
 ## Pipeline
 
-Raw reads
-    ↓
-SRA Toolkit
-    ↓
-FastQC
-    ↓
-fastp
-    ↓
-SPAdes
-    ↓
-QUAST
-    ↓
-Prokka
-    ↓
-IGV
-    ↓
-KEGG / BlastKOALA
+![Uploading Gemini_Generated_Image_4la2d34la2d34la2.png…]()
+
+
