@@ -1,0 +1,2054 @@
+locus_tag	ftype	gene	EC_number	product
+PALMKOPA_00001	CDS	hypothetical protein		
+PALMKOPA_00002	CDS	hypothetical protein		
+PALMKOPA_00003	CDS	hypothetical protein		
+PALMKOPA_00004	CDS	tpx	1.11.1.-	putative thiol peroxidase
+PALMKOPA_00005	CDS	valS	6.1.1.9	Valine--tRNA ligase
+PALMKOPA_00006	CDS	fpgS	6.3.2.17	Folylpolyglutamate synthase
+PALMKOPA_00007	CDS	hypothetical protein		
+PALMKOPA_00008	CDS	mreB_1	Rod shape-determining protein MreB	
+PALMKOPA_00009	CDS	mreC	Cell shape-determining protein MreC	
+PALMKOPA_00010	CDS	mreD	Rod shape-determining protein MreD	
+PALMKOPA_00011	CDS	yecS_1	L-cystine transport system permease protein YecS	
+PALMKOPA_00012	CDS	glnQ_1	Glutamine transport ATP-binding protein GlnQ	
+PALMKOPA_00013	CDS	fliY	L-cystine-binding protein FliY	
+PALMKOPA_00014	CDS	hypothetical protein		
+PALMKOPA_00015	CDS	albF	3.4.24.-	Putative zinc protease AlbF
+PALMKOPA_00016	CDS	rodZ	Cytoskeleton protein RodZ	
+PALMKOPA_00017	CDS	pgsA	2.7.8.5	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+PALMKOPA_00018	CDS	cinA	Putative competence-damage inducible protein	
+PALMKOPA_00019	CDS	recA	Protein RecA	
+PALMKOPA_00020	CDS	rny	3.1.-.-	Ribonuclease Y
+PALMKOPA_00021	CDS	mutS	DNA mismatch repair protein MutS	
+PALMKOPA_00022	CDS	mutL	DNA mismatch repair protein MutL	
+PALMKOPA_00023	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+PALMKOPA_00024	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+PALMKOPA_00025	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+PALMKOPA_00026	CDS	hypothetical protein		
+PALMKOPA_00027	CDS	nrnA	3.1.-.-	putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+PALMKOPA_00028	CDS	cshB	3.6.4.13	DEAD-box ATP-dependent RNA helicase CshB
+PALMKOPA_00029	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+PALMKOPA_00030	CDS	hypothetical protein		
+PALMKOPA_00031	CDS	yrrK	3.1.-.-	Putative pre-16S rRNA nuclease
+PALMKOPA_00032	CDS	hypothetical protein		
+PALMKOPA_00033	CDS	rnhC	3.1.26.4	Ribonuclease HIII
+PALMKOPA_00034	CDS	hypothetical protein		
+PALMKOPA_00035	CDS	mutS2	3.1.-.-	Endonuclease MutS2
+PALMKOPA_00036	CDS	trxA_1	Thioredoxin	
+PALMKOPA_00037	CDS	clcA_1	H(+)/Cl(-) exchange transporter ClcA	
+PALMKOPA_00038	CDS	hypothetical protein		
+PALMKOPA_00039	CDS	murI	5.1.1.3	Glutamate racemase
+PALMKOPA_00040	CDS	rdgB	3.6.1.9	dITP/XTP pyrophosphatase
+PALMKOPA_00041	CDS	hypothetical protein		
+PALMKOPA_00042	CDS	ybiV	3.1.3.23	Sugar phosphatase YbiV
+PALMKOPA_00043	CDS	ykuT	putative MscS family protein YkuT	
+PALMKOPA_00044	CDS	hypothetical protein		
+PALMKOPA_00045	CDS	hypothetical protein		
+PALMKOPA_00046	CDS	pepQ	3.4.13.9	Xaa-Pro dipeptidase
+PALMKOPA_00047	CDS	ccpA_1	Catabolite control protein A	
+PALMKOPA_00048	CDS	hypothetical protein		
+PALMKOPA_00049	CDS	yebC	putative transcriptional regulatory protein YebC	
+PALMKOPA_00050	CDS	mepH_1	3.4.-.-	Murein DD-endopeptidase MepH
+PALMKOPA_00051	CDS	arnT	2.4.2.43	Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+PALMKOPA_00052	CDS	hypothetical protein		
+PALMKOPA_00053	CDS	comGA	ComG operon protein 1	
+PALMKOPA_00054	CDS	epsF_1	Type II secretion system protein F	
+PALMKOPA_00055	CDS	hin	DNA-invertase hin	
+PALMKOPA_00056	CDS	hypothetical protein		
+PALMKOPA_00057	CDS	lexA_1	3.4.21.88	LexA repressor
+PALMKOPA_00058	CDS	hypothetical protein		
+PALMKOPA_00059	CDS	hypothetical protein		
+PALMKOPA_00060	CDS	hypothetical protein		
+PALMKOPA_00061	CDS	hypothetical protein		
+PALMKOPA_00062	CDS	hypothetical protein		
+PALMKOPA_00063	CDS	hypothetical protein		
+PALMKOPA_00064	CDS	hypothetical protein		
+PALMKOPA_00065	CDS	hypothetical protein		
+PALMKOPA_00066	CDS	hypothetical protein		
+PALMKOPA_00067	CDS	hypothetical protein		
+PALMKOPA_00068	CDS	hypothetical protein		
+PALMKOPA_00069	CDS	hypothetical protein		
+PALMKOPA_00070	CDS	hypothetical protein		
+PALMKOPA_00071	CDS	hypothetical protein		
+PALMKOPA_00072	CDS	hypothetical protein		
+PALMKOPA_00073	CDS	hypothetical protein		
+PALMKOPA_00074	CDS	hypothetical protein		
+PALMKOPA_00075	CDS	hypothetical protein		
+PALMKOPA_00076	CDS	hypothetical protein		
+PALMKOPA_00077	CDS	hypothetical protein		
+PALMKOPA_00078	CDS	hypothetical protein		
+PALMKOPA_00079	CDS	hypothetical protein		
+PALMKOPA_00080	CDS	hypothetical protein		
+PALMKOPA_00081	CDS	hypothetical protein		
+PALMKOPA_00082	CDS	hypothetical protein		
+PALMKOPA_00083	CDS	hypothetical protein		
+PALMKOPA_00084	CDS	hypothetical protein		
+PALMKOPA_00085	CDS	hypothetical protein		
+PALMKOPA_00086	CDS	hypothetical protein		
+PALMKOPA_00087	CDS	hypothetical protein		
+PALMKOPA_00088	CDS	hypothetical protein		
+PALMKOPA_00089	CDS	hypothetical protein		
+PALMKOPA_00090	CDS	hypothetical protein		
+PALMKOPA_00091	CDS	hypothetical protein		
+PALMKOPA_00092	CDS	hypothetical protein		
+PALMKOPA_00093	CDS	hypothetical protein		
+PALMKOPA_00094	CDS	hypothetical protein		
+PALMKOPA_00095	CDS	hypothetical protein		
+PALMKOPA_00096	CDS	hypothetical protein		
+PALMKOPA_00097	CDS	hypothetical protein		
+PALMKOPA_00098	CDS	hypothetical protein		
+PALMKOPA_00099	CDS	hypothetical protein		
+PALMKOPA_00100	CDS	lytE	3.4.-.-	putative peptidoglycan endopeptidase LytE
+PALMKOPA_00101	CDS	smc_1	Chromosome partition protein Smc	
+PALMKOPA_00102	CDS	hypothetical protein		
+PALMKOPA_00103	CDS	hypothetical protein		
+PALMKOPA_00104	CDS	hypothetical protein		
+PALMKOPA_00105	CDS	hypothetical protein		
+PALMKOPA_00106	CDS	hypothetical protein		
+PALMKOPA_00107	CDS	hypothetical protein		
+PALMKOPA_00108	CDS	hypothetical protein		
+PALMKOPA_00109	CDS	hypothetical protein		
+PALMKOPA_00110	CDS	3.2.1.-	Autolysin	
+PALMKOPA_00111	CDS	hypothetical protein		
+PALMKOPA_00112	CDS	hypothetical protein		
+PALMKOPA_00113	CDS	hypothetical protein		
+PALMKOPA_00114	CDS	hypothetical protein		
+PALMKOPA_00115	CDS	hypothetical protein		
+PALMKOPA_00116	CDS	hypothetical protein		
+PALMKOPA_00117	CDS	hypothetical protein		
+PALMKOPA_00118	CDS	hypothetical protein		
+PALMKOPA_00119	CDS	hypothetical protein		
+PALMKOPA_00120	CDS	hypothetical protein		
+PALMKOPA_00121	CDS	ackA	2.7.2.1	Acetate kinase
+PALMKOPA_00122	CDS	cpdA_1	3.1.4.53	"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA"
+PALMKOPA_00123	CDS	hypothetical protein		
+PALMKOPA_00124	CDS	yutF	3.1.3.-	Acid sugar phosphatase
+PALMKOPA_00125	CDS	hypothetical protein		
+PALMKOPA_00126	CDS	putative membrane protein		
+PALMKOPA_00127	CDS	vioD_1	4.2.1.145	Capreomycidine synthase
+PALMKOPA_00128	CDS	tsaB	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB	
+PALMKOPA_00129	CDS	rimI	2.3.1.255	N-alpha-acetyltransferase RimI
+PALMKOPA_00130	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+PALMKOPA_00131	CDS	hypothetical protein		
+PALMKOPA_00132	CDS	fabZ_1	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+PALMKOPA_00133	CDS	hypothetical protein		
+PALMKOPA_00134	CDS	fabH	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+PALMKOPA_00135	CDS	acpP_1	Acyl carrier protein	
+PALMKOPA_00136	CDS	fabD	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+PALMKOPA_00137	CDS	fabG	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+PALMKOPA_00138	CDS	fabF	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+PALMKOPA_00139	CDS	accB_1	Biotin carboxyl carrier protein of acetyl-CoA carboxylase	
+PALMKOPA_00140	CDS	fabZ_2	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+PALMKOPA_00141	CDS	accC_1	6.3.4.14	Biotin carboxylase
+PALMKOPA_00142	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+PALMKOPA_00143	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+PALMKOPA_00144	CDS	fabI	1.3.1.39	Enoyl-[acyl-carrier-protein] reductase [NADPH] FabI
+PALMKOPA_00145	CDS	bioY	Biotin transporter BioY	
+PALMKOPA_00146	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+PALMKOPA_00147	CDS	yheS	putative ABC transporter ATP-binding protein YheS	
+PALMKOPA_00148	CDS	rex	Redox-sensing transcriptional repressor Rex	
+PALMKOPA_00149	CDS	groS	10 kDa chaperonin	
+PALMKOPA_00150	CDS	groL	60 kDa chaperonin	
+PALMKOPA_00151	CDS	hypothetical protein		
+PALMKOPA_00152	CDS	hypothetical protein		
+PALMKOPA_00153	CDS	yigZ	IMPACT family member YigZ	
+PALMKOPA_00154	CDS	comFA	3.6.4.12	ComF operon protein 1
+PALMKOPA_00155	CDS	pyrE_1	2.4.2.10	Orotate phosphoribosyltransferase
+PALMKOPA_00156	CDS	hpf	Ribosome hibernation promotion factor	
+PALMKOPA_00157	CDS	secA	Protein translocase subunit SecA	
+PALMKOPA_00158	CDS	prfB	Peptide chain release factor 2	
+PALMKOPA_00159	CDS	hypothetical protein		
+PALMKOPA_00160	CDS	hypothetical protein		
+PALMKOPA_00161	CDS	hprK	2.7.11.-	HPr kinase/phosphorylase
+PALMKOPA_00162	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+PALMKOPA_00163	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+PALMKOPA_00164	CDS	gtaB	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+PALMKOPA_00165	CDS	3.5.1.111	2-oxoglutaramate amidase	
+PALMKOPA_00166	CDS	dapL	2.6.1.83	LL-diaminopimelate aminotransferase
+PALMKOPA_00167	CDS	panE	1.1.1.169	putative 2-dehydropantoate 2-reductase
+PALMKOPA_00168	CDS	hypothetical protein		
+PALMKOPA_00169	CDS	trxB_1	1.8.1.9	Thioredoxin reductase
+PALMKOPA_00170	CDS	cysE	2.3.1.30	Serine O-acetyltransferase
+PALMKOPA_00171	CDS	cysK	2.5.1.47	Cysteine synthase
+PALMKOPA_00172	CDS	ilvE_1	2.6.1.42	Branched-chain-amino-acid aminotransferase
+PALMKOPA_00173	CDS	1.1.1.-	L-2-hydroxyisocaproate dehydrogenase	
+PALMKOPA_00174	CDS	yidA_1	3.1.3.23	Sugar phosphatase YidA
+PALMKOPA_00175	CDS	pgcA_1	5.4.2.2	Phosphoglucomutase
+PALMKOPA_00176	CDS	pgcA_2	5.4.2.2	Phosphoglucomutase
+PALMKOPA_00177	CDS	yfbR	3.1.3.89	5'-deoxynucleotidase YfbR
+PALMKOPA_00178	CDS	hypothetical protein		
+PALMKOPA_00179	CDS	uvrB	UvrABC system protein B	
+PALMKOPA_00180	CDS	uvrA	UvrABC system protein A	
+PALMKOPA_00181	CDS	hypothetical protein		
+PALMKOPA_00182	CDS	yvcJ	Nucleotide-binding protein YvcJ	
+PALMKOPA_00183	CDS	Putative gluconeogenesis factor		
+PALMKOPA_00184	CDS	whiA	Putative sporulation transcription regulator WhiA	
+PALMKOPA_00185	CDS	tenA	3.5.99.2	Aminopyrimidine aminohydrolase
+PALMKOPA_00186	CDS	clpP	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+PALMKOPA_00187	CDS	hypothetical protein		
+PALMKOPA_00188	tRNA	tRNA-Arg(ccg)		
+PALMKOPA_00189	tRNA	tRNA-Leu(cag)		
+PALMKOPA_00190	CDS	hypothetical protein		
+PALMKOPA_00191	CDS	hypothetical protein		
+PALMKOPA_00192	CDS	gmk_1	2.7.4.8	Guanylate kinase
+PALMKOPA_00193	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+PALMKOPA_00194	CDS	coaBC	Coenzyme A biosynthesis bifunctional protein CoaBC	
+PALMKOPA_00195	CDS	priA	3.6.4.-	Primosomal protein N'
+PALMKOPA_00196	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+PALMKOPA_00197	CDS	rsmB	2.1.1.176	Ribosomal RNA small subunit methyltransferase B
+PALMKOPA_00198	CDS	3.1.3.16	Putative protein phosphatase 2C-type	
+PALMKOPA_00199	CDS	prkC	2.7.11.1	Serine/threonine-protein kinase PrkC
+PALMKOPA_00200	CDS	rsgA	3.6.1.-	Small ribosomal subunit biogenesis GTPase RsgA
+PALMKOPA_00201	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+PALMKOPA_00202	CDS	thiN	2.7.6.2	Thiamine pyrophosphokinase
+PALMKOPA_00203	CDS	rpmB	50S ribosomal protein L28	
+PALMKOPA_00204	CDS	hypothetical protein		
+PALMKOPA_00205	CDS	hypothetical protein		
+PALMKOPA_00206	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+PALMKOPA_00207	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+PALMKOPA_00208	CDS	acpP_2	Acyl carrier protein	
+PALMKOPA_00209	CDS	rnc	3.1.26.3	Ribonuclease 3
+PALMKOPA_00210	CDS	smc_2	Chromosome partition protein Smc	
+PALMKOPA_00211	CDS	ftsY	Signal recognition particle receptor FtsY	
+PALMKOPA_00212	CDS	hypothetical protein		
+PALMKOPA_00213	CDS	ffh	Signal recognition particle protein	
+PALMKOPA_00214	CDS	hypothetical protein		
+PALMKOPA_00215	CDS	hypothetical protein		
+PALMKOPA_00216	CDS	hypothetical protein		
+PALMKOPA_00217	CDS	phoP_1	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP	
+PALMKOPA_00218	CDS	pstS1	Phosphate-binding protein PstS 1	
+PALMKOPA_00219	CDS	pstC1	Phosphate transport system permease protein PstC 1	
+PALMKOPA_00220	CDS	pstA	Phosphate transport system permease protein PstA	
+PALMKOPA_00221	CDS	pstB3_1	3.6.3.27	Phosphate import ATP-binding protein PstB 3
+PALMKOPA_00222	CDS	phoU	Phosphate-specific transport system accessory protein PhoU 	
+PALMKOPA_00223	CDS	rpsP	30S ribosomal protein S16	
+PALMKOPA_00224	CDS	hypothetical protein		
+PALMKOPA_00225	CDS	rimM	Ribosome maturation factor RimM	
+PALMKOPA_00226	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+PALMKOPA_00227	CDS	yhdG_1	putative amino acid permease YhdG	
+PALMKOPA_00228	CDS	rplS	50S ribosomal protein L19	
+PALMKOPA_00229	CDS	cas3	3.1.-.-	CRISPR-associated nuclease/helicase Cas3
+PALMKOPA_00230	CDS	hypothetical protein		
+PALMKOPA_00231	CDS	hypothetical protein		
+PALMKOPA_00232	CDS	casC	CRISPR system Cascade subunit CasC	
+PALMKOPA_00233	CDS	casD	CRISPR system Cascade subunit CasD	
+PALMKOPA_00234	CDS	cse3	3.1.-.-	CRISPR-associated endoribonuclease Cse3
+PALMKOPA_00235	CDS	ygbT	3.1.-.-	CRISPR-associated endonuclease Cas1
+PALMKOPA_00236	CDS	polC_1	2.7.7.7	DNA polymerase III PolC-type
+PALMKOPA_00237	CDS	hypothetical protein		
+PALMKOPA_00238	CDS	hypothetical protein		
+PALMKOPA_00239	CDS	hypothetical protein		
+PALMKOPA_00240	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+PALMKOPA_00241	CDS	pyrC	3.5.2.3	Dihydroorotase
+PALMKOPA_00242	CDS	carA_1	6.3.5.5	Carbamoyl-phosphate synthase small chain
+PALMKOPA_00243	CDS	carB_1	6.3.5.5	Carbamoyl-phosphate synthase large chain
+PALMKOPA_00244	CDS	carB_2	6.3.5.5	Carbamoyl-phosphate synthase large chain
+PALMKOPA_00245	CDS	pyrDB	1.3.1.14	"Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit"
+PALMKOPA_00246	CDS	nfdA	3.5.1.91	N-substituted formamide deformylase
+PALMKOPA_00247	CDS	1.1.1.-	L-2-hydroxyisocaproate dehydrogenase	
+PALMKOPA_00248	CDS	pspA_1	3.1.3.3	Phosphoserine phosphatase 1
+PALMKOPA_00249	CDS	hypothetical protein		
+PALMKOPA_00250	CDS	recD2	3.6.4.12	ATP-dependent RecD-like DNA helicase
+PALMKOPA_00251	CDS	prs_1	2.7.6.1	Ribose-phosphate pyrophosphokinase
+PALMKOPA_00252	CDS	spxA_1	Regulatory protein Spx	
+PALMKOPA_00253	CDS	ytlR	2.7.1.-	Putative lipid kinase YtlR
+PALMKOPA_00254	CDS	hypothetical protein		
+PALMKOPA_00255	CDS	hypothetical protein		
+PALMKOPA_00256	CDS	def_1	3.5.1.88	Peptide deformylase
+PALMKOPA_00257	CDS	hypothetical protein		
+PALMKOPA_00258	CDS	suhB	3.1.3.11	"Fructose-1,6-bisphosphatase/inositol-1-monophosphatase"
+PALMKOPA_00259	CDS	typA	GTP-binding protein TypA/BipA	
+PALMKOPA_00260	CDS	ftsW	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+PALMKOPA_00261	CDS	hypothetical protein		
+PALMKOPA_00262	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+PALMKOPA_00263	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+PALMKOPA_00264	CDS	lon	3.4.21.53	Lon protease
+PALMKOPA_00265	CDS	comEA	ComE operon protein 1	
+PALMKOPA_00266	CDS	tadA_1	3.5.4.33	tRNA-specific adenosine deaminase
+PALMKOPA_00267	CDS	comEC	ComE operon protein 3	
+PALMKOPA_00268	CDS	hypothetical protein		
+PALMKOPA_00269	CDS	rpsT	30S ribosomal protein S20	
+PALMKOPA_00270	CDS	rpsO	30S ribosomal protein S15	
+PALMKOPA_00271	CDS	gshAB_1	Glutathione biosynthesis bifunctional protein GshAB	
+PALMKOPA_00272	CDS	rnj2	3.1.-.-	Ribonuclease J 2
+PALMKOPA_00273	CDS	hypothetical protein		
+PALMKOPA_00274	CDS	tuf	Elongation factor Tu	
+PALMKOPA_00275	CDS	tig	5.2.1.8	Trigger factor
+PALMKOPA_00276	CDS	clpX	ATP-dependent Clp protease ATP-binding subunit ClpX	
+PALMKOPA_00277	CDS	engB	putative GTP-binding protein EngB	
+PALMKOPA_00278	CDS	hypothetical protein		
+PALMKOPA_00279	CDS	hypothetical protein		
+PALMKOPA_00280	CDS	artM_1	Arginine transport ATP-binding protein ArtM	
+PALMKOPA_00281	CDS	uvrC	UvrABC system protein C	
+PALMKOPA_00282	CDS	obg	3.6.5.-	GTPase Obg
+PALMKOPA_00283	CDS	rnz	3.1.26.11	Ribonuclease Z
+PALMKOPA_00284	CDS	1.-.-.-	putative oxidoreductase	
+PALMKOPA_00285	CDS	recJ	3.1.-.-	Single-stranded-DNA-specific exonuclease RecJ
+PALMKOPA_00286	CDS	apt	2.4.2.7	Adenine phosphoribosyltransferase
+PALMKOPA_00287	CDS	hypothetical protein		
+PALMKOPA_00288	CDS	ldhA	1.1.1.28	D-lactate dehydrogenase
+PALMKOPA_00289	CDS	mhpD_1	4.2.1.80	2-keto-4-pentenoate hydratase
+PALMKOPA_00290	CDS	adhR	HTH-type transcriptional regulator AdhR	
+PALMKOPA_00291	CDS	ywrO_1	1.6.99.-	General stress protein 14
+PALMKOPA_00292	CDS	hypothetical protein		
+PALMKOPA_00293	CDS	hypothetical protein		
+PALMKOPA_00294	CDS	hypothetical protein		
+PALMKOPA_00295	CDS	xre	HTH-type transcriptional regulator Xre	
+PALMKOPA_00296	CDS	gldA	1.1.1.6	Glycerol dehydrogenase
+PALMKOPA_00297	CDS	lvr_1	1.1.1.-	Levodione reductase
+PALMKOPA_00298	CDS	2.3.1.-	Putative acetyltransferase	
+PALMKOPA_00299	CDS	hypothetical protein		
+PALMKOPA_00300	CDS	hypothetical protein		
+PALMKOPA_00301	CDS	glpE	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+PALMKOPA_00302	CDS	glcK	2.7.1.2	Glucokinase
+PALMKOPA_00303	CDS	hypothetical protein		
+PALMKOPA_00304	CDS	gluP	3.4.21.105	Rhomboid protease GluP
+PALMKOPA_00305	CDS	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase	
+PALMKOPA_00306	CDS	rpmGA_1	50S ribosomal protein L33 1	
+PALMKOPA_00307	CDS	penA	Penicillin-binding protein 2B	
+PALMKOPA_00308	CDS	hypothetical protein		
+PALMKOPA_00309	CDS	greA_1	Transcription elongation factor GreA	
+PALMKOPA_00310	CDS	udk	2.7.1.48	Uridine kinase
+PALMKOPA_00311	CDS	pheT_1	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+PALMKOPA_00312	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+PALMKOPA_00313	CDS	yodB	HTH-type transcriptional regulator YodB	
+PALMKOPA_00314	CDS	hypothetical protein		
+PALMKOPA_00315	CDS	2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase	
+PALMKOPA_00316	CDS	acyP	3.6.1.7	Acylphosphatase
+PALMKOPA_00317	CDS	misCB	Membrane protein insertase MisCB	
+PALMKOPA_00318	CDS	def_2	3.5.1.88	Peptide deformylase
+PALMKOPA_00319	CDS	mepA_1	Multidrug export protein MepA	
+PALMKOPA_00320	CDS	arlS	2.7.13.3	Signal transduction histidine-protein kinase ArlS
+PALMKOPA_00321	CDS	arlR	Response regulator ArlR	
+PALMKOPA_00322	CDS	rpmF	50S ribosomal protein L32	
+PALMKOPA_00323	CDS	hypothetical protein		
+PALMKOPA_00324	CDS	hypothetical protein		
+PALMKOPA_00325	CDS	tylM1	2.1.1.235	"dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase"
+PALMKOPA_00326	CDS	rsfS	Ribosomal silencing factor RsfS	
+PALMKOPA_00327	CDS	hypothetical protein		
+PALMKOPA_00328	CDS	nadD	2.7.7.18	Nicotinate-nucleotide adenylyltransferase
+PALMKOPA_00329	CDS	RNA-binding protein		
+PALMKOPA_00330	CDS	der_1	GTPase Der	
+PALMKOPA_00331	CDS	gph	3.1.3.18	Phosphoglycolate phosphatase
+PALMKOPA_00332	CDS	hypothetical protein		
+PALMKOPA_00333	CDS	hypothetical protein		
+PALMKOPA_00334	CDS	rplT	50S ribosomal protein L20	
+PALMKOPA_00335	CDS	rpmI	50S ribosomal protein L35	
+PALMKOPA_00336	CDS	infC	Translation initiation factor IF-3	
+PALMKOPA_00337	CDS	dnaI	Primosomal protein DnaI	
+PALMKOPA_00338	CDS	dnaB	Replication initiation and membrane attachment protein	
+PALMKOPA_00339	CDS	nrdR	Transcriptional repressor NrdR	
+PALMKOPA_00340	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+PALMKOPA_00341	CDS	mutM	3.2.2.23	Formamidopyrimidine-DNA glycosylase
+PALMKOPA_00342	CDS	polA	2.7.7.7	DNA polymerase I
+PALMKOPA_00343	CDS	menH_1	4.2.99.20	"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase"
+PALMKOPA_00344	CDS	ybhL	Inner membrane protein YbhL	
+PALMKOPA_00345	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+PALMKOPA_00346	CDS	pheT_2	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+PALMKOPA_00347	CDS	ytpP	Thioredoxin-like protein YtpP	
+PALMKOPA_00348	CDS	hypothetical protein		
+PALMKOPA_00349	CDS	trmB	2.1.1.33	tRNA (guanine-N(7)-)-methyltransferase
+PALMKOPA_00350	CDS	hypothetical protein		
+PALMKOPA_00351	CDS	ecsA	ABC-type transporter ATP-binding protein EcsA	
+PALMKOPA_00352	CDS	3.9.1.-	Purine nucleoside phosphoramidase	
+PALMKOPA_00353	CDS	hypothetical protein		
+PALMKOPA_00354	CDS	prsA	5.2.1.8	Foldase protein PrsA
+PALMKOPA_00355	CDS	yhaM	3.1.-.-	3'-5' exoribonuclease YhaM
+PALMKOPA_00356	CDS	hypothetical protein		
+PALMKOPA_00357	CDS	pbpF	Penicillin-binding protein 1F	
+PALMKOPA_00358	CDS	5.1.1.21	Isoleucine 2-epimerase	
+PALMKOPA_00359	CDS	yhdG_2	putative amino acid permease YhdG	
+PALMKOPA_00360	CDS	hypothetical protein		
+PALMKOPA_00361	CDS	hypothetical protein		
+PALMKOPA_00362	CDS	3.1.-.-	Putative esterase	
+PALMKOPA_00363	CDS	hypothetical protein		
+PALMKOPA_00364	CDS	argH	4.3.2.1	Argininosuccinate lyase
+PALMKOPA_00365	CDS	argG	6.3.4.5	Argininosuccinate synthase
+PALMKOPA_00366	CDS	hypothetical protein		
+PALMKOPA_00367	CDS	hypothetical protein		
+PALMKOPA_00368	CDS	putative ABC transporter ATP-binding protein		
+PALMKOPA_00369	CDS	hypothetical protein		
+PALMKOPA_00370	CDS	macB	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+PALMKOPA_00371	CDS	kstR2	HTH-type transcriptional repressor KstR2	
+PALMKOPA_00372	CDS	dxs_1	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+PALMKOPA_00373	CDS	hypothetical protein		
+PALMKOPA_00374	CDS	arg	3.5.3.1	Arginase
+PALMKOPA_00375	CDS	hypothetical protein		
+PALMKOPA_00376	CDS	1.13.12.16	Nitronate monooxygenase	
+PALMKOPA_00377	CDS	arsR	Arsenical resistance operon repressor	
+PALMKOPA_00378	CDS	hypothetical protein		
+PALMKOPA_00379	CDS	hypothetical protein		
+PALMKOPA_00380	CDS	pacL	3.6.3.8	Calcium-transporting ATPase
+PALMKOPA_00381	CDS	norB	1.7.2.5	Nitric oxide reductase subunit B
+PALMKOPA_00382	CDS	guaA	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+PALMKOPA_00383	CDS	yjbM_1	2.7.6.5	GTP pyrophosphokinase YjbM
+PALMKOPA_00384	CDS	mprA	Response regulator MprA	
+PALMKOPA_00385	CDS	tcrY	2.7.13.3	putative sensor histidine kinase TcrY
+PALMKOPA_00386	CDS	coaA	2.7.1.33	Pantothenate kinase
+PALMKOPA_00387	CDS	hypothetical protein		
+PALMKOPA_00388	CDS	bacC_1	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+PALMKOPA_00389	CDS	ltaS1_1	Lipoteichoic acid synthase 1	
+PALMKOPA_00390	CDS	hypothetical protein		
+PALMKOPA_00391	CDS	helD_1	3.6.4.12	DNA helicase IV
+PALMKOPA_00392	CDS	putative membrane protein		
+PALMKOPA_00393	CDS	gpmA_1	5.4.2.11	"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase"
+PALMKOPA_00394	CDS	hflX	GTPase HflX	
+PALMKOPA_00395	CDS	menC	4.2.1.113	o-succinylbenzoate synthase
+PALMKOPA_00396	CDS	pnuC	Nicotinamide riboside transporter PnuC	
+PALMKOPA_00397	CDS	yveA	Aspartate-proton symporter	
+PALMKOPA_00398	CDS	ytmI	2.3.1.-	putative N-acetyltransferase YtmI
+PALMKOPA_00399	CDS	yxeM	putative amino-acid-binding protein YxeM	
+PALMKOPA_00400	CDS	hypothetical protein		
+PALMKOPA_00401	CDS	metI	2.5.1.-	Cystathionine gamma-synthase/O-acetylhomoserine (thiol)-lyase
+PALMKOPA_00402	CDS	metB_1	2.5.1.48	Cystathionine gamma-synthase
+PALMKOPA_00403	CDS	hypothetical protein		
+PALMKOPA_00404	CDS	dtd	3.1.1.96	D-aminoacyl-tRNA deacylase
+PALMKOPA_00405	CDS	relA	2.7.6.5	GTP pyrophosphokinase
+PALMKOPA_00406	CDS	hypothetical protein		
+PALMKOPA_00407	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+PALMKOPA_00408	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+PALMKOPA_00409	CDS	hypothetical protein		
+PALMKOPA_00410	CDS	hypothetical protein		
+PALMKOPA_00411	CDS	ldh_1	1.1.1.27	L-lactate dehydrogenase
+PALMKOPA_00412	CDS	hypothetical protein		
+PALMKOPA_00413	CDS	hypothetical protein		
+PALMKOPA_00414	CDS	hypothetical protein		
+PALMKOPA_00415	CDS	nlhH_1	3.1.1.1	Carboxylesterase NlhH
+PALMKOPA_00416	CDS	hypothetical protein		
+PALMKOPA_00417	CDS	hypothetical protein		
+PALMKOPA_00418	CDS	hypothetical protein		
+PALMKOPA_00419	CDS	cas2	3.1.-.-	CRISPR-associated endoribonuclease Cas2
+PALMKOPA_00420	CDS	cas1	3.1.-.-	CRISPR-associated endonuclease Cas1
+PALMKOPA_00421	CDS	cas9-2	3.1.-.-	CRISPR-associated endonuclease Cas9 2
+PALMKOPA_00422	CDS	hypothetical protein		
+PALMKOPA_00423	CDS	thiM	2.7.1.50	Hydroxyethylthiazole kinase
+PALMKOPA_00424	CDS	thiD	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+PALMKOPA_00425	CDS	thiE	2.5.1.3	Thiamine-phosphate synthase
+PALMKOPA_00426	CDS	pdxK_1	2.7.1.35	Pyridoxine kinase
+PALMKOPA_00427	CDS	psiE	Protein PsiE	
+PALMKOPA_00428	CDS	hypothetical protein		
+PALMKOPA_00429	CDS	gltB	1.4.1.13	Glutamate synthase [NADPH] small chain
+PALMKOPA_00430	CDS	gltA	1.4.1.13	Glutamate synthase [NADPH] large chain
+PALMKOPA_00431	CDS	xylB_1	1.1.1.90	Aryl-alcohol dehydrogenase
+PALMKOPA_00432	CDS	adh_1	1.1.1.1	Alcohol dehydrogenase
+PALMKOPA_00433	CDS	hypothetical protein		
+PALMKOPA_00434	CDS	msrA_1	1.8.4.11	Peptide methionine sulfoxide reductase MsrA
+PALMKOPA_00435	CDS	metQ_1	D-methionine-binding lipoprotein MetQ	
+PALMKOPA_00436	CDS	msrA_2	1.8.4.11	Peptide methionine sulfoxide reductase MsrA
+PALMKOPA_00437	CDS	ydfK_1	putative membrane protein YdfK	
+PALMKOPA_00438	CDS	hypothetical protein		
+PALMKOPA_00439	CDS	hypothetical protein		
+PALMKOPA_00440	CDS	tkt_1	2.2.1.1	Transketolase
+PALMKOPA_00441	CDS	rpiA_1	5.3.1.6	Ribose-5-phosphate isomerase A
+PALMKOPA_00442	CDS	tal	2.2.1.2	putative transaldolase
+PALMKOPA_00443	CDS	tkt_2	2.2.1.1	Transketolase
+PALMKOPA_00444	CDS	glpT	Glycerol-3-phosphate transporter	
+PALMKOPA_00445	CDS	hflK	Modulator of FtsH protease HflK	
+PALMKOPA_00446	CDS	hypothetical protein		
+PALMKOPA_00447	CDS	Putative universal stress protein		
+PALMKOPA_00448	CDS	hypothetical protein		
+PALMKOPA_00449	CDS	hypothetical protein		
+PALMKOPA_00450	CDS	hypothetical protein		
+PALMKOPA_00451	CDS	hypothetical protein		
+PALMKOPA_00452	CDS	menH_2	4.2.99.20	"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase"
+PALMKOPA_00453	CDS	ohrB	Organic hydroperoxide resistance protein OhrB	
+PALMKOPA_00454	CDS	lplJ_1	6.3.1.20	Lipoate-protein ligase LplJ
+PALMKOPA_00455	CDS	nhaK	"Sodium, potassium, lithium and rubidium/H(+) antiporter"	
+PALMKOPA_00456	CDS	hypothetical protein		
+PALMKOPA_00457	CDS	ykoC	Putative HMP/thiamine permease protein YkoC	
+PALMKOPA_00458	CDS	ykoD	3.6.3.-	Putative HMP/thiamine import ATP-binding protein YkoD
+PALMKOPA_00459	CDS	ykoE_1	Putative HMP/thiamine permease protein YkoE	
+PALMKOPA_00460	CDS	rihA_1	3.2.-.-	Pyrimidine-specific ribonucleoside hydrolase RihA
+PALMKOPA_00461	CDS	yumC	1.18.1.2	Ferredoxin--NADP reductase 2
+PALMKOPA_00462	CDS	cadA_1	3.6.3.3	putative cadmium-transporting ATPase
+PALMKOPA_00463	CDS	cadA_2	3.6.3.3	putative cadmium-transporting ATPase
+PALMKOPA_00464	CDS	copZ_1	Copper chaperone CopZ	
+PALMKOPA_00465	CDS	hypothetical protein		
+PALMKOPA_00466	CDS	fnr_1	Anaerobic regulatory protein	
+PALMKOPA_00467	CDS	hypothetical protein		
+PALMKOPA_00468	CDS	ltaS1_2	Lipoteichoic acid synthase 1	
+PALMKOPA_00469	CDS	gpmA_2	5.4.2.11	"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase"
+PALMKOPA_00470	CDS	qorB_1	1.6.5.2	Quinone oxidoreductase 2
+PALMKOPA_00471	CDS	pucK_1	Uric acid permease PucK	
+PALMKOPA_00472	CDS	hypothetical protein		
+PALMKOPA_00473	CDS	rluD_1	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+PALMKOPA_00474	CDS	hypothetical protein		
+PALMKOPA_00475	CDS	trxA_2	Thioredoxin	
+PALMKOPA_00476	CDS	rbsK/rbiA_1	Bifunctional ribokinase/ribose-5-phosphate isomerase A	
+PALMKOPA_00477	CDS	glxR	1.1.1.60	2-hydroxy-3-oxopropionate reductase
+PALMKOPA_00478	CDS	ccpA_2	Catabolite control protein A	
+PALMKOPA_00479	CDS	yusO	putative HTH-type transcriptional regulator YusO	
+PALMKOPA_00480	CDS	putative ABC transporter ATP-binding protein		
+PALMKOPA_00481	CDS	putative ABC transporter ATP-binding protein		
+PALMKOPA_00482	CDS	pbpX_1	Putative penicillin-binding protein PbpX	
+PALMKOPA_00483	CDS	clsA_1	2.7.8.-	Major cardiolipin synthase ClsA
+PALMKOPA_00484	CDS	hypothetical protein		
+PALMKOPA_00485	CDS	cobQ	Cobyric acid synthase	
+PALMKOPA_00486	CDS	murF_1	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+PALMKOPA_00487	CDS	tdk	2.7.1.21	Thymidine kinase
+PALMKOPA_00488	CDS	prfA	Peptide chain release factor 1	
+PALMKOPA_00489	CDS	prmB	2.1.1.298	50S ribosomal protein L3 glutamine methyltransferase
+PALMKOPA_00490	CDS	ywlC	2.7.7.87	Threonylcarbamoyl-AMP synthase
+PALMKOPA_00491	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+PALMKOPA_00492	CDS	upp	2.4.2.9	Uracil phosphoribosyltransferase
+PALMKOPA_00493	CDS	hypothetical protein		
+PALMKOPA_00494	CDS	hypothetical protein		
+PALMKOPA_00495	CDS	pyrP	Uracil permease	
+PALMKOPA_00496	CDS	atpB	ATP synthase subunit a	
+PALMKOPA_00497	CDS	atpE	ATP synthase subunit c	
+PALMKOPA_00498	CDS	atpF	ATP synthase subunit b	
+PALMKOPA_00499	CDS	atpH	ATP synthase subunit delta	
+PALMKOPA_00500	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+PALMKOPA_00501	CDS	atpG	ATP synthase gamma chain	
+PALMKOPA_00502	CDS	atpD	3.6.3.14	ATP synthase subunit beta
+PALMKOPA_00503	CDS	atpC	ATP synthase epsilon chain	
+PALMKOPA_00504	CDS	hypothetical protein		
+PALMKOPA_00505	CDS	murA1_1	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1
+PALMKOPA_00506	CDS	mreB_2	Rod shape-determining protein MreB	
+PALMKOPA_00507	CDS	hypothetical protein		
+PALMKOPA_00508	CDS	rodA	2.4.1.129	Peptidoglycan glycosyltransferase RodA
+PALMKOPA_00509	CDS	gcvH	Glycine cleavage system H protein	
+PALMKOPA_00510	CDS	hypothetical protein		
+PALMKOPA_00511	CDS	ddl	6.3.2.4	D-alanine--D-alanine ligase
+PALMKOPA_00512	CDS	hypothetical protein		
+PALMKOPA_00513	CDS	Putative universal stress protein		
+PALMKOPA_00514	CDS	hypothetical protein		
+PALMKOPA_00515	CDS	putative AAA domain-containing protein		
+PALMKOPA_00516	CDS	hypothetical protein		
+PALMKOPA_00517	CDS	hypothetical protein		
+PALMKOPA_00518	CDS	hypothetical protein		
+PALMKOPA_00519	CDS	hypothetical protein		
+PALMKOPA_00520	CDS	hypothetical protein		
+PALMKOPA_00521	CDS	hypothetical protein		
+PALMKOPA_00522	CDS	kup	Low affinity potassium transport system protein kup	
+PALMKOPA_00523	CDS	hypothetical protein		
+PALMKOPA_00524	CDS	glpK	2.7.1.30	Glycerol kinase
+PALMKOPA_00525	CDS	5.3.2.-	putative tautomerase.1	
+PALMKOPA_00526	CDS	kefC	Glutathione-regulated potassium-efflux system protein KefC	
+PALMKOPA_00527	CDS	pepD	3.4.-.-	Dipeptidase
+PALMKOPA_00528	CDS	hypothetical protein		
+PALMKOPA_00529	CDS	gmuC	PTS system oligo-beta-mannoside-specific EIIC component	
+PALMKOPA_00530	CDS	rpsN2	Alternate 30S ribosomal protein S14	
+PALMKOPA_00531	CDS	hypothetical protein		
+PALMKOPA_00532	CDS	qacA	Antiseptic resistance protein	
+PALMKOPA_00533	CDS	yjhB	Putative metabolite transport protein YjhB	
+PALMKOPA_00534	CDS	corC_1	Magnesium and cobalt efflux protein CorC	
+PALMKOPA_00535	CDS	naiP_1	Putative niacin/nicotinamide transporter NaiP	
+PALMKOPA_00536	CDS	hypothetical protein		
+PALMKOPA_00537	CDS	hypothetical protein		
+PALMKOPA_00538	CDS	hypothetical protein		
+PALMKOPA_00539	CDS	lplJ_2	6.3.1.20	Lipoate-protein ligase LplJ
+PALMKOPA_00540	CDS	pdhD	1.8.1.4	Dihydrolipoyl dehydrogenase
+PALMKOPA_00541	CDS	pdhC	2.3.1.12	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+PALMKOPA_00542	CDS	pdhB	1.2.4.1	Pyruvate dehydrogenase E1 component subunit beta
+PALMKOPA_00543	CDS	pdhA	1.2.4.1	Pyruvate dehydrogenase E1 component subunit alpha
+PALMKOPA_00544	CDS	hypothetical protein		
+PALMKOPA_00545	CDS	hypothetical protein		
+PALMKOPA_00546	CDS	hypothetical protein		
+PALMKOPA_00547	CDS	thrC	4.2.3.1	Threonine synthase
+PALMKOPA_00548	CDS	hom_1	1.1.1.3	Homoserine dehydrogenase
+PALMKOPA_00549	CDS	thrB_1	2.7.1.39	Homoserine kinase
+PALMKOPA_00550	CDS	hypothetical protein		
+PALMKOPA_00551	CDS	yhfK	4.-.-.-	putative sugar epimerase YhfK
+PALMKOPA_00552	CDS	hypothetical protein		
+PALMKOPA_00553	CDS	hypothetical protein		
+PALMKOPA_00554	CDS	hypothetical protein		
+PALMKOPA_00555	CDS	DegV domain-containing protein		
+PALMKOPA_00556	CDS	hypothetical protein		
+PALMKOPA_00557	CDS	hypothetical protein		
+PALMKOPA_00558	CDS	ybhF	putative ABC transporter ATP-binding protein YbhF	
+PALMKOPA_00559	CDS	ybhR	Inner membrane transport permease YbhR	
+PALMKOPA_00560	CDS	mgsR	Regulatory protein MgsR	
+PALMKOPA_00561	CDS	glpQ_1	3.1.4.46	Glycerophosphodiester phosphodiesterase
+PALMKOPA_00562	CDS	yvgN_1	1.1.1.-	Glyoxal reductase
+PALMKOPA_00563	CDS	addA	3.1.-.-	ATP-dependent helicase/nuclease subunit A
+PALMKOPA_00564	CDS	addB	3.1.-.-	ATP-dependent helicase/deoxyribonuclease subunit B
+PALMKOPA_00565	CDS	clsA_2	2.7.8.-	Major cardiolipin synthase ClsA
+PALMKOPA_00566	CDS	clpC_1	putative ATP-dependent Clp protease ATP-binding subunit	
+PALMKOPA_00567	CDS	hypothetical protein		
+PALMKOPA_00568	CDS	patA_1	2.6.1.-	Putative N-acetyl-LL-diaminopimelate aminotransferase
+PALMKOPA_00569	CDS	ldhD	1.1.1.28	D-lactate dehydrogenase
+PALMKOPA_00570	CDS	menH_3	4.2.99.20	"2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase"
+PALMKOPA_00571	CDS	3.5.1.11	Penicillin acylase	
+PALMKOPA_00572	CDS	hypothetical protein		
+PALMKOPA_00573	CDS	yvdM	5.4.2.6	Beta-phosphoglucomutase
+PALMKOPA_00574	CDS	malP	2.4.1.8	Maltose phosphorylase
+PALMKOPA_00575	CDS	hypothetical protein		
+PALMKOPA_00576	CDS	malR	HTH-type transcriptional regulator MalR	
+PALMKOPA_00577	CDS	ywnA_1	Putative HTH-type transcriptional regulator YwnA	
+PALMKOPA_00578	CDS	rlmH	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+PALMKOPA_00579	CDS	htrA	3.4.21.107	Serine protease Do-like HtrA
+PALMKOPA_00580	CDS	yycJ	3.-.-.-	Putative metallo-hydrolase YycJ
+PALMKOPA_00581	CDS	hypothetical protein		
+PALMKOPA_00582	CDS	hypothetical protein		
+PALMKOPA_00583	CDS	walK	2.7.13.3	Sensor protein kinase WalK
+PALMKOPA_00584	CDS	walR	Transcriptional regulatory protein WalR	
+PALMKOPA_00585	tRNA	tRNA-Lys(ctt)		
+PALMKOPA_00586	CDS	ctsR	Transcriptional regulator CtsR	
+PALMKOPA_00587	CDS	clpC_2	Negative regulator of genetic competence ClpC/MecB	
+PALMKOPA_00588	CDS	bepR	HTH-type transcriptional repressor BepR	
+PALMKOPA_00589	CDS	rpoB	2.7.7.6	DNA-directed RNA polymerase subunit beta
+PALMKOPA_00590	CDS	rpoC	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+PALMKOPA_00591	CDS	2.4.2.-	Putative glutamine amidotransferase	
+PALMKOPA_00592	CDS	hypothetical protein		
+PALMKOPA_00593	CDS	comC	Type 4 prepilin-like proteins leader peptide-processing enzyme	
+PALMKOPA_00594	CDS	rpsL	30S ribosomal protein S12	
+PALMKOPA_00595	CDS	rpsG	30S ribosomal protein S7	
+PALMKOPA_00596	CDS	fus	Elongation factor G	
+PALMKOPA_00597	CDS	rpsJ	30S ribosomal protein S10	
+PALMKOPA_00598	CDS	rplC	50S ribosomal protein L3	
+PALMKOPA_00599	CDS	rplD	50S ribosomal protein L4	
+PALMKOPA_00600	CDS	rplW	50S ribosomal protein L23	
+PALMKOPA_00601	CDS	rplB	50S ribosomal protein L2	
+PALMKOPA_00602	CDS	rpsS	30S ribosomal protein S19	
+PALMKOPA_00603	CDS	rplV	50S ribosomal protein L22	
+PALMKOPA_00604	CDS	rpsC	30S ribosomal protein S3	
+PALMKOPA_00605	CDS	rplP	50S ribosomal protein L16	
+PALMKOPA_00606	CDS	rpmC	50S ribosomal protein L29	
+PALMKOPA_00607	CDS	rpsQ	30S ribosomal protein S17	
+PALMKOPA_00608	CDS	rplN	50S ribosomal protein L14	
+PALMKOPA_00609	CDS	rplX	50S ribosomal protein L24	
+PALMKOPA_00610	CDS	rplE	50S ribosomal protein L5	
+PALMKOPA_00611	CDS	rpsN1	30S ribosomal protein S14	
+PALMKOPA_00612	CDS	rpsH	30S ribosomal protein S8	
+PALMKOPA_00613	CDS	rplF	50S ribosomal protein L6	
+PALMKOPA_00614	CDS	rplR	50S ribosomal protein L18	
+PALMKOPA_00615	CDS	rpsE	30S ribosomal protein S5	
+PALMKOPA_00616	CDS	rpmD	50S ribosomal protein L30	
+PALMKOPA_00617	CDS	rplO	50S ribosomal protein L15	
+PALMKOPA_00618	CDS	secY	Protein translocase subunit SecY	
+PALMKOPA_00619	CDS	adk	2.7.4.3	Adenylate kinase
+PALMKOPA_00620	CDS	infA	Translation initiation factor IF-1	
+PALMKOPA_00621	CDS	rpmJ	50S ribosomal protein L36	
+PALMKOPA_00622	CDS	rpsM	30S ribosomal protein S13	
+PALMKOPA_00623	CDS	rpsK	30S ribosomal protein S11	
+PALMKOPA_00624	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+PALMKOPA_00625	CDS	rplQ	50S ribosomal protein L17	
+PALMKOPA_00626	CDS	ecfA1_1	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA1
+PALMKOPA_00627	CDS	ecfA2	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA2
+PALMKOPA_00628	CDS	ecfT	Energy-coupling factor transporter transmembrane protein EcfT	
+PALMKOPA_00629	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+PALMKOPA_00630	CDS	rplM	50S ribosomal protein L13	
+PALMKOPA_00631	CDS	rpsI	30S ribosomal protein S9	
+PALMKOPA_00632	CDS	idnD	1.1.1.264	L-idonate 5-dehydrogenase (NAD(P)(+))
+PALMKOPA_00633	CDS	hypothetical protein		
+PALMKOPA_00634	CDS	hypothetical protein		
+PALMKOPA_00635	CDS	lolD	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+PALMKOPA_00636	CDS	argR_1	Arginine repressor	
+PALMKOPA_00637	CDS	ziaR	Transcriptional repressor SmtB 	
+PALMKOPA_00638	CDS	3.2.1.-	Autolysin	
+PALMKOPA_00639	CDS	degA_1	HTH-type transcriptional regulator DegA	
+PALMKOPA_00640	CDS	hypothetical protein		
+PALMKOPA_00641	CDS	hypothetical protein		
+PALMKOPA_00642	CDS	efp	Elongation factor P	
+PALMKOPA_00643	CDS	nnr	Bifunctional NAD(P)H-hydrate repair enzyme Nnr	
+PALMKOPA_00644	CDS	hypothetical protein		
+PALMKOPA_00645	CDS	ywrO_2	1.6.99.-	General stress protein 14
+PALMKOPA_00646	CDS	hypothetical protein		
+PALMKOPA_00647	CDS	hypothetical protein		
+PALMKOPA_00648	CDS	3.2.2.-	Putative 3-methyladenine DNA glycosylase	
+PALMKOPA_00649	CDS	hypothetical protein		
+PALMKOPA_00650	CDS	hypothetical protein		
+PALMKOPA_00651	CDS	hypothetical protein		
+PALMKOPA_00652	CDS	pbuG	Guanine/hypoxanthine permease PbuG	
+PALMKOPA_00653	CDS	pepO	3.4.24.-	Neutral endopeptidase
+PALMKOPA_00654	CDS	ymdB	3.5.1.-	O-acetyl-ADP-ribose deacetylase
+PALMKOPA_00655	CDS	hypothetical protein		
+PALMKOPA_00656	CDS	greA_2	Transcription elongation factor GreA	
+PALMKOPA_00657	CDS	1.1.1.81	Hydroxypyruvate reductase	
+PALMKOPA_00658	CDS	hypothetical protein		
+PALMKOPA_00659	CDS	putative amino-acid ABC transporter-binding protein		
+PALMKOPA_00660	CDS	tcyB_1	L-cystine transport system permease protein TcyB	
+PALMKOPA_00661	CDS	artM_2	Arginine transport ATP-binding protein ArtM	
+PALMKOPA_00662	CDS	hypothetical protein		
+PALMKOPA_00663	CDS	hypothetical protein		
+PALMKOPA_00664	CDS	iphP	3.1.3.48	Tyrosine-protein phosphatase
+PALMKOPA_00665	CDS	hypothetical protein		
+PALMKOPA_00666	CDS	galK_1	2.7.1.6	Galactokinase
+PALMKOPA_00667	CDS	galT	2.7.7.12	Galactose-1-phosphate uridylyltransferase
+PALMKOPA_00668	CDS	lacR_1	HTH-type transcriptional regulator LacR	
+PALMKOPA_00669	CDS	agaSK	Bifunctional alpha-galactosidase/sucrose kinase AgaSK	
+PALMKOPA_00670	CDS	lacS_1	Lactose permease	
+PALMKOPA_00671	CDS	ntpJ	Potassium/sodium uptake protein NtpJ	
+PALMKOPA_00672	CDS	ktrA	Ktr system potassium uptake protein A	
+PALMKOPA_00673	CDS	trmK	2.1.1.217	tRNA (adenine(22)-N(1))-methyltransferase
+PALMKOPA_00674	CDS	GTP cyclohydrolase 1 type 2 		
+PALMKOPA_00675	CDS	pepT	3.4.11.4	Peptidase T
+PALMKOPA_00676	CDS	hypothetical protein		
+PALMKOPA_00677	CDS	dnaE	2.7.7.7	DNA polymerase III subunit alpha
+PALMKOPA_00678	CDS	pyk	2.7.1.40	Pyruvate kinase
+PALMKOPA_00679	CDS	cvfB	Conserved virulence factor B	
+PALMKOPA_00680	CDS	xerD_1	Tyrosine recombinase XerD	
+PALMKOPA_00681	CDS	hypothetical protein		
+PALMKOPA_00682	CDS	scpA	Segregation and condensation protein A	
+PALMKOPA_00683	CDS	scpB	Segregation and condensation protein B	
+PALMKOPA_00684	CDS	rluB	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+PALMKOPA_00685	CDS	ribU	Riboflavin transporter RibU	
+PALMKOPA_00686	CDS	hypothetical protein		
+PALMKOPA_00687	CDS	recQ	3.6.4.12	ATP-dependent DNA helicase RecQ
+PALMKOPA_00688	CDS	hypothetical protein		
+PALMKOPA_00689	CDS	cmk	2.7.4.25	Cytidylate kinase
+PALMKOPA_00690	CDS	rps1	30S ribosomal protein S1	
+PALMKOPA_00691	CDS	der_2	GTPase Der	
+PALMKOPA_00692	CDS	hup	DNA-binding protein HU	
+PALMKOPA_00693	CDS	bepA	3.4.-.-	Beta-barrel assembly-enhancing protease
+PALMKOPA_00694	CDS	xerC_1	Tyrosine recombinase XerC	
+PALMKOPA_00695	CDS	cca	2.7.7.72	CCA-adding enzyme
+PALMKOPA_00696	CDS	ettA	Energy-dependent translational throttle protein EttA	
+PALMKOPA_00697	CDS	thyA	2.1.1.45	Thymidylate synthase
+PALMKOPA_00698	CDS	dfrA	1.5.1.3	Dihydrofolate reductase
+PALMKOPA_00699	CDS	hypothetical protein		
+PALMKOPA_00700	CDS	DegV domain-containing protein		
+PALMKOPA_00701	CDS	1.1.1.81	Hydroxypyruvate reductase	
+PALMKOPA_00702	CDS	cat	2.3.1.28	Chloramphenicol acetyltransferase
+PALMKOPA_00703	CDS	lipC	3.-.-.-	Spore germination lipase LipC
+PALMKOPA_00704	CDS	hypothetical protein		
+PALMKOPA_00705	CDS	hypothetical protein		
+PALMKOPA_00706	tRNA	tRNA-Val(tac)		
+PALMKOPA_00707	tRNA	tRNA-Lys(ttt)		
+PALMKOPA_00708	tRNA	tRNA-Thr(tgt)		
+PALMKOPA_00709	tRNA	tRNA-Gly(gcc)		
+PALMKOPA_00710	tRNA	tRNA-Leu(taa)		
+PALMKOPA_00711	tRNA	tRNA-Arg(acg)		
+PALMKOPA_00712	tRNA	tRNA-Pro(tgg)		
+PALMKOPA_00713	tRNA	tRNA-Met(cat)		
+PALMKOPA_00714	tRNA	tRNA-Met(cat)		
+PALMKOPA_00715	tRNA	tRNA-Ser(tga)		
+PALMKOPA_00716	tRNA	tRNA-Met(cat)		
+PALMKOPA_00717	tRNA	tRNA-Asp(gtc)		
+PALMKOPA_00718	tRNA	tRNA-Phe(gaa)		
+PALMKOPA_00719	tRNA	tRNA-Gly(tcc)		
+PALMKOPA_00720	tRNA	tRNA-Ile(gat)		
+PALMKOPA_00721	tRNA	tRNA-Ser(gct)		
+PALMKOPA_00722	tRNA	tRNA-Glu(ttc)		
+PALMKOPA_00723	tRNA	tRNA-Met(cat)		
+PALMKOPA_00724	tRNA	tRNA-Asp(gtc)		
+PALMKOPA_00725	CDS	hypothetical protein		
+PALMKOPA_00726	CDS	spxA_2	Regulatory protein Spx	
+PALMKOPA_00727	CDS	mecA	Adapter protein MecA 1	
+PALMKOPA_00728	CDS	coiA	Competence protein CoiA	
+PALMKOPA_00729	CDS	hypothetical protein		
+PALMKOPA_00730	CDS	yjbM_2	2.7.6.5	GTP pyrophosphokinase YjbM
+PALMKOPA_00731	CDS	nadK	2.7.1.23	NAD kinase
+PALMKOPA_00732	CDS	5.4.99.-	putative RNA pseudouridine synthase	
+PALMKOPA_00733	CDS	pgl_1	3.1.1.31	6-phosphogluconolactonase
+PALMKOPA_00734	CDS	rlmA	2.1.1.187	23S rRNA (guanine(745)-N(1))-methyltransferase
+PALMKOPA_00735	CDS	trmL	2.1.1.207	tRNA (cytidine(34)-2'-O)-methyltransferase
+PALMKOPA_00736	CDS	spoIIIE	DNA translocase SpoIIIE	
+PALMKOPA_00737	CDS	hypothetical protein		
+PALMKOPA_00738	CDS	hypothetical protein		
+PALMKOPA_00739	CDS	mraZ	Transcriptional regulator MraZ	
+PALMKOPA_00740	CDS	rsmH	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+PALMKOPA_00741	CDS	ftsL	Cell division protein FtsL	
+PALMKOPA_00742	CDS	pbpB	Penicillin-binding protein 2B	
+PALMKOPA_00743	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+PALMKOPA_00744	CDS	murD	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+PALMKOPA_00745	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+PALMKOPA_00746	CDS	divIB	Cell division protein DivIB	
+PALMKOPA_00747	CDS	ftsA	Cell division protein FtsA	
+PALMKOPA_00748	CDS	ftsZ	Cell division protein FtsZ	
+PALMKOPA_00749	CDS	sepF	Cell division protein SepF	
+PALMKOPA_00750	CDS	hypothetical protein		
+PALMKOPA_00751	CDS	hypothetical protein		
+PALMKOPA_00752	CDS	divIVA	Septum site-determining protein DivIVA	
+PALMKOPA_00753	CDS	hypothetical protein		
+PALMKOPA_00754	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+PALMKOPA_00755	CDS	csp	Cold shock-like protein	
+PALMKOPA_00756	CDS	act	3.-.-.-	Methanol dehydrogenase activator
+PALMKOPA_00757	CDS	hypothetical protein		
+PALMKOPA_00758	CDS	mtnN	3.2.2.9	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+PALMKOPA_00759	CDS	hypothetical protein		
+PALMKOPA_00760	CDS	mnmA	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+PALMKOPA_00761	CDS	yxeN	putative amino-acid permease protein YxeN	
+PALMKOPA_00762	CDS	yxeO	3.6.3.-	putative amino-acid import ATP-binding protein YxeO
+PALMKOPA_00763	CDS	yxeP	3.-.-.-	putative hydrolase YxeP
+PALMKOPA_00764	CDS	pcaB	5.5.1.2	"3-carboxy-cis,cis-muconate cycloisomerase"
+PALMKOPA_00765	CDS	hypothetical protein		
+PALMKOPA_00766	CDS	hypothetical protein		
+PALMKOPA_00767	CDS	glnP_1	Glutamine transport system permease protein GlnP	
+PALMKOPA_00768	CDS	tcyB_2	L-cystine transport system permease protein TcyB	
+PALMKOPA_00769	CDS	glnQ_2	Glutamine transport ATP-binding protein GlnQ	
+PALMKOPA_00770	CDS	glnH	ABC transporter glutamine-binding protein GlnH	
+PALMKOPA_00771	CDS	1.1.1.51	3-beta-hydroxysteroid dehydrogenase	
+PALMKOPA_00772	CDS	hypothetical protein		
+PALMKOPA_00773	CDS	hom_2	1.1.1.3	Homoserine dehydrogenase
+PALMKOPA_00774	CDS	metA	2.3.1.46	Homoserine O-succinyltransferase
+PALMKOPA_00775	CDS	rocC	Amino-acid permease RocC	
+PALMKOPA_00776	CDS	mmuM	2.1.1.10	Homocysteine S-methyltransferase
+PALMKOPA_00777	CDS	hypothetical protein		
+PALMKOPA_00778	CDS	lytC	3.5.1.28	N-acetylmuramoyl-L-alanine amidase LytC
+PALMKOPA_00779	CDS	6.3.1.20	Lipoate--protein ligase 2	
+PALMKOPA_00780	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+PALMKOPA_00781	CDS	aspS	6.1.1.12	Aspartate--tRNA ligase
+PALMKOPA_00782	CDS	hypothetical protein		
+PALMKOPA_00783	CDS	rpsU	30S ribosomal protein S21	
+PALMKOPA_00784	CDS	hypothetical protein		
+PALMKOPA_00785	CDS	PhoH-like protein		
+PALMKOPA_00786	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+PALMKOPA_00787	CDS	dgkA	2.7.1.66	Undecaprenol kinase
+PALMKOPA_00788	CDS	era	GTPase Era	
+PALMKOPA_00789	CDS	recO	DNA repair protein RecO	
+PALMKOPA_00790	CDS	glyQ	6.1.1.14	Glycine--tRNA ligase alpha subunit
+PALMKOPA_00791	CDS	glyS	6.1.1.14	Glycine--tRNA ligase beta subunit
+PALMKOPA_00792	CDS	dnaG	2.7.7.-	DNA primase
+PALMKOPA_00793	CDS	sigA	RNA polymerase sigma factor SigA	
+PALMKOPA_00794	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+PALMKOPA_00795	tRNA	tRNA-Gly(ccc)		
+PALMKOPA_00796	CDS	hypothetical protein		
+PALMKOPA_00797	CDS	hypothetical protein		
+PALMKOPA_00798	CDS	folP	2.5.1.15	Dihydropteroate synthase
+PALMKOPA_00799	CDS	3.6.1.9	Non-canonical purine NTP pyrophosphatase	
+PALMKOPA_00800	CDS	folC	6.3.2.12	Dihydrofolate synthase/folylpolyglutamate synthase
+PALMKOPA_00801	CDS	folE	3.5.4.16	GTP cyclohydrolase 1
+PALMKOPA_00802	CDS	sulD	Bifunctional folate synthesis protein	
+PALMKOPA_00803	CDS	folB	4.1.2.25	Dihydroneopterin aldolase
+PALMKOPA_00804	CDS	hypothetical protein		
+PALMKOPA_00805	CDS	degA_2	HTH-type transcriptional regulator DegA	
+PALMKOPA_00806	CDS	hypothetical protein		
+PALMKOPA_00807	CDS	2.7.1.113	Deoxyguanosine kinase	
+PALMKOPA_00808	CDS	3.2.1.-	Autolysin	
+PALMKOPA_00809	CDS	lppS	2.3.2.-	"Putative L,D-transpeptidase LppS"
+PALMKOPA_00810	CDS	Putative universal stress protein		
+PALMKOPA_00811	CDS	3.4.13.-	Putative dipeptidase	
+PALMKOPA_00812	CDS	nnrD	4.2.1.136	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+PALMKOPA_00813	CDS	hypothetical protein		
+PALMKOPA_00814	CDS	murJ	Lipid II flippase MurJ	
+PALMKOPA_00815	CDS	hypothetical protein		
+PALMKOPA_00816	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+PALMKOPA_00817	CDS	hypothetical protein		
+PALMKOPA_00818	CDS	proA	1.2.1.41	Gamma-glutamyl phosphate reductase
+PALMKOPA_00819	CDS	proB	2.7.2.11	Glutamate 5-kinase 1
+PALMKOPA_00820	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+PALMKOPA_00821	CDS	hypothetical protein		
+PALMKOPA_00822	CDS	tag	3.2.2.20	DNA-3-methyladenine glycosylase 1
+PALMKOPA_00823	CDS	ribZ_1	Riboflavin transporter RibZ	
+PALMKOPA_00824	CDS	perR	Peroxide-responsive repressor PerR	
+PALMKOPA_00825	CDS	cycA_1	D-serine/D-alanine/glycine transporter	
+PALMKOPA_00826	CDS	hypothetical protein		
+PALMKOPA_00827	CDS	hypothetical protein		
+PALMKOPA_00828	CDS	hypothetical protein		
+PALMKOPA_00829	CDS	hypothetical protein		
+PALMKOPA_00830	CDS	hypothetical protein		
+PALMKOPA_00831	CDS	gap	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase
+PALMKOPA_00832	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+PALMKOPA_00833	CDS	tpiA_1	5.3.1.1	Triosephosphate isomerase
+PALMKOPA_00834	CDS	eno2	4.2.1.11	Enolase 2
+PALMKOPA_00835	CDS	yifK_1	putative transport protein YifK	
+PALMKOPA_00836	CDS	clcA_2	H(+)/Cl(-) exchange transporter ClcA	
+PALMKOPA_00837	CDS	secG	putative protein-export membrane protein SecG	
+PALMKOPA_00838	CDS	rnr	3.1.13.1	Ribonuclease R
+PALMKOPA_00839	CDS	smpB	SsrA-binding protein	
+PALMKOPA_00840	CDS	hypothetical protein		
+PALMKOPA_00841	CDS	ung	3.2.2.27	Uracil-DNA glycosylase
+PALMKOPA_00842	CDS	pta	2.3.1.8	Phosphate acetyltransferase
+PALMKOPA_00843	CDS	tsaE	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE	
+PALMKOPA_00844	CDS	hypothetical protein		
+PALMKOPA_00845	CDS	polC_2	2.7.7.7	DNA polymerase III PolC-type
+PALMKOPA_00846	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+PALMKOPA_00847	CDS	dacA_1	2.7.7.85	Diadenylate cyclase
+PALMKOPA_00848	CDS	cdaR	CdaA regulatory protein CdaR	
+PALMKOPA_00849	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+PALMKOPA_00850	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+PALMKOPA_00851	CDS	hypothetical protein		
+PALMKOPA_00852	CDS	oatA	2.3.1.-	O-acetyltransferase OatA
+PALMKOPA_00853	CDS	3.1.3.-	Putative phosphatase	
+PALMKOPA_00854	CDS	hypothetical protein		
+PALMKOPA_00855	CDS	hypothetical protein		
+PALMKOPA_00856	CDS	cmpR	HTH-type transcriptional activator CmpR	
+PALMKOPA_00857	CDS	yvyI	5.3.1.8	Putative mannose-6-phosphate isomerase YvyI
+PALMKOPA_00858	CDS	DegV domain-containing protein		
+PALMKOPA_00859	CDS	hypothetical protein		
+PALMKOPA_00860	CDS	yfeX	1.11.1.-	putative deferrochelatase/peroxidase YfeX
+PALMKOPA_00861	CDS	mepH_2	3.4.-.-	Murein DD-endopeptidase MepH
+PALMKOPA_00862	CDS	hypothetical protein		
+PALMKOPA_00863	CDS	csbB	2.4.-.-	Putative glycosyltransferase CsbB
+PALMKOPA_00864	CDS	hypothetical protein		
+PALMKOPA_00865	CDS	ykoT_1	2.4.-.-	putative glycosyltransferase YkoT
+PALMKOPA_00866	CDS	prfC	Peptide chain release factor 3	
+PALMKOPA_00867	CDS	wbbI	2.4.1.-	"Beta-1,6-galactofuranosyltransferase WbbI"
+PALMKOPA_00868	CDS	pglI	2.4.1.293	"GalNAc(5)-diNAcBac-PP-undecaprenol beta-1,3-glucosyltransferase"
+PALMKOPA_00869	CDS	ykoT_2	2.4.-.-	putative glycosyltransferase YkoT
+PALMKOPA_00870	CDS	hypothetical protein		
+PALMKOPA_00871	CDS	hypothetical protein		
+PALMKOPA_00872	CDS	rfbB	4.2.1.46	"dTDP-glucose 4,6-dehydratase"
+PALMKOPA_00873	CDS	ytrA	HTH-type transcriptional repressor YtrA	
+PALMKOPA_00874	CDS	ytrB	ABC transporter ATP-binding protein YtrB	
+PALMKOPA_00875	CDS	hypothetical protein		
+PALMKOPA_00876	CDS	hypothetical protein		
+PALMKOPA_00877	CDS	6.3.1.12	D-aspartate ligase	
+PALMKOPA_00878	CDS	hypothetical protein		
+PALMKOPA_00879	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+PALMKOPA_00880	CDS	hypothetical protein		
+PALMKOPA_00881	CDS	panT	Pantothenate transporter PanT	
+PALMKOPA_00882	CDS	pncB2_1	6.3.4.21	Nicotinate phosphoribosyltransferase pncB2
+PALMKOPA_00883	CDS	rutB	3.5.1.110	Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB
+PALMKOPA_00884	CDS	hypothetical protein		
+PALMKOPA_00885	CDS	clpE	ATP-dependent Clp protease ATP-binding subunit ClpE	
+PALMKOPA_00886	CDS	hypothetical protein		
+PALMKOPA_00887	CDS	ptsH	2.7.11.-	Phosphocarrier protein HPr
+PALMKOPA_00888	CDS	ptsI_1	2.7.3.9	Phosphoenolpyruvate-protein phosphotransferase
+PALMKOPA_00889	CDS	2.4.1.337	Alpha-monoglucosyldiacylglycerol synthase	
+PALMKOPA_00890	CDS	cpoA	2.4.1.-	Alpha-galactosylglucosyldiacylglycerol synthase
+PALMKOPA_00891	CDS	hypothetical protein		
+PALMKOPA_00892	CDS	emrB	Multidrug export protein EmrB	
+PALMKOPA_00893	CDS	ribF	Riboflavin biosynthesis protein RibF	
+PALMKOPA_00894	CDS	truB	5.4.99.25	tRNA pseudouridine synthase B
+PALMKOPA_00895	CDS	rbfA	Ribosome-binding factor A	
+PALMKOPA_00896	CDS	infB	Translation initiation factor IF-2	
+PALMKOPA_00897	CDS	rplGA	putative ribosomal protein YlxQ	
+PALMKOPA_00898	CDS	hypothetical protein		
+PALMKOPA_00899	CDS	nusA	Transcription termination/antitermination protein NusA	
+PALMKOPA_00900	CDS	rimP	Ribosome maturation factor RimP	
+PALMKOPA_00901	CDS	carB_3	6.3.5.5	Carbamoyl-phosphate synthase arginine-specific large chain
+PALMKOPA_00902	CDS	carA_2	6.3.5.5	Carbamoyl-phosphate synthase arginine-specific small chain
+PALMKOPA_00903	CDS	argC	1.2.1.38	N-acetyl-gamma-glutamyl-phosphate reductase
+PALMKOPA_00904	CDS	argJ	Arginine biosynthesis bifunctional protein ArgJ	
+PALMKOPA_00905	CDS	argB	2.7.2.8	Acetylglutamate kinase
+PALMKOPA_00906	CDS	argD	2.6.1.11	Acetylornithine aminotransferase
+PALMKOPA_00907	CDS	polC_3	2.7.7.7	DNA polymerase III PolC-type
+PALMKOPA_00908	CDS	proS	6.1.1.15	Proline--tRNA ligase
+PALMKOPA_00909	CDS	rasP	3.4.24.-	Regulator of sigma-W protease RasP
+PALMKOPA_00910	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+PALMKOPA_00911	CDS	uppS	2.5.1.31	"Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)"
+PALMKOPA_00912	CDS	frr	Ribosome-recycling factor	
+PALMKOPA_00913	CDS	pyrH	2.7.4.22	Uridylate kinase
+PALMKOPA_00914	CDS	tsf	Elongation factor Ts	
+PALMKOPA_00915	CDS	rpsB	30S ribosomal protein S2	
+PALMKOPA_00916	CDS	hypothetical protein		
+PALMKOPA_00917	CDS	yfiC	2.1.1.223	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+PALMKOPA_00918	CDS	plsC	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+PALMKOPA_00919	CDS	hypothetical protein		
+PALMKOPA_00920	CDS	hypothetical protein		
+PALMKOPA_00921	CDS	Int-Tn	Transposase from transposon Tn916	
+PALMKOPA_00922	CDS	rbgA	Ribosome biogenesis GTPase A	
+PALMKOPA_00923	CDS	rnhB	3.1.26.4	Ribonuclease HII
+PALMKOPA_00924	CDS	dprA	DNA processing protein DprA	
+PALMKOPA_00925	CDS	topA	5.99.1.2	DNA topoisomerase 1
+PALMKOPA_00926	CDS	xerD_2	Tyrosine recombinase XerD	
+PALMKOPA_00927	CDS	hypothetical protein		
+PALMKOPA_00928	CDS	plsY	2.3.1.-	Glycerol-3-phosphate acyltransferase
+PALMKOPA_00929	CDS	parE	5.99.1.3	DNA topoisomerase 4 subunit B
+PALMKOPA_00930	CDS	parC	5.99.1.3	DNA topoisomerase 4 subunit A
+PALMKOPA_00931	CDS	yagU	Inner membrane protein YagU	
+PALMKOPA_00932	CDS	ppaC	3.6.1.1	putative manganese-dependent inorganic pyrophosphatase
+PALMKOPA_00933	CDS	hypothetical protein		
+PALMKOPA_00934	CDS	msrB	1.8.4.12	Peptide methionine sulfoxide reductase MsrB
+PALMKOPA_00935	CDS	ywnH	2.3.1.183	Putative phosphinothricin acetyltransferase YwnH
+PALMKOPA_00936	CDS	msrC	1.8.4.14	Free methionine-R-sulfoxide reductase
+PALMKOPA_00937	CDS	pucI	putative allantoin permease	
+PALMKOPA_00938	CDS	codA	3.5.4.1	Cytosine deaminase
+PALMKOPA_00939	CDS	hypothetical protein		
+PALMKOPA_00940	CDS	hypothetical protein		
+PALMKOPA_00941	CDS	rarA	Replication-associated recombination protein A	
+PALMKOPA_00942	CDS	ydfK_2	putative membrane protein YdfK	
+PALMKOPA_00943	CDS	yhjX	putative MFS-type transporter YhjX	
+PALMKOPA_00944	CDS	hypothetical protein		
+PALMKOPA_00945	CDS	hypothetical protein		
+PALMKOPA_00946	CDS	clcA_3	H(+)/Cl(-) exchange transporter ClcA	
+PALMKOPA_00947	CDS	hypothetical protein		
+PALMKOPA_00948	CDS	odh	1.5.1.28	Opine dehydrogenase
+PALMKOPA_00949	CDS	hypothetical protein		
+PALMKOPA_00950	CDS	hypothetical protein		
+PALMKOPA_00951	CDS	mdtG	Multidrug resistance protein MdtG	
+PALMKOPA_00952	CDS	rpmE2	50S ribosomal protein L31 type B	
+PALMKOPA_00953	CDS	murA1_2	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+PALMKOPA_00954	CDS	pyrG	6.3.4.2	CTP synthase
+PALMKOPA_00955	CDS	rpoE	putative DNA-directed RNA polymerase subunit delta	
+PALMKOPA_00956	CDS	ywiB	putative beta-barrel protein YwiB	
+PALMKOPA_00957	CDS	hypothetical protein		
+PALMKOPA_00958	CDS	yidA_2	3.1.3.23	Sugar phosphatase YidA
+PALMKOPA_00959	CDS	hypothetical protein		
+PALMKOPA_00960	CDS	prs_2	2.7.6.1	Ribose-phosphate pyrophosphokinase
+PALMKOPA_00961	CDS	glmU	Bifunctional protein GlmU	
+PALMKOPA_00962	CDS	purR	Pur operon repressor	
+PALMKOPA_00963	CDS	znuB	High-affinity zinc uptake system membrane protein ZnuB	
+PALMKOPA_00964	CDS	znuC	3.6.3.-	Zinc import ATP-binding protein ZnuC
+PALMKOPA_00965	CDS	fimA	Manganese ABC transporter substrate-binding lipoprotein	
+PALMKOPA_00966	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+PALMKOPA_00967	CDS	rsmA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+PALMKOPA_00968	CDS	rnmV	3.1.26.8	Ribonuclease M5
+PALMKOPA_00969	CDS	dtd3	3.1.1.96	D-aminoacyl-tRNA deacylase
+PALMKOPA_00970	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+PALMKOPA_00971	CDS	hypothetical protein		
+PALMKOPA_00972	CDS	tetA	"Tetracycline resistance protein, class B"	
+PALMKOPA_00973	CDS	cobB	3.5.1.-	NAD-dependent protein deacetylase
+PALMKOPA_00974	CDS	hypothetical protein		
+PALMKOPA_00975	CDS	mvaA	1.1.1.88	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+PALMKOPA_00976	CDS	ppx_1	3.6.1.11	Exopolyphosphatase
+PALMKOPA_00977	CDS	helD_2	3.6.4.12	DNA helicase IV
+PALMKOPA_00978	CDS	napA	Na(+)/H(+) antiporter	
+PALMKOPA_00979	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+PALMKOPA_00980	CDS	gyrB	5.99.1.3	DNA gyrase subunit B
+PALMKOPA_00981	CDS	recF	DNA replication and repair protein RecF	
+PALMKOPA_00982	CDS	hypothetical protein		
+PALMKOPA_00983	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+PALMKOPA_00984	CDS	dnaA	Chromosomal replication initiator protein DnaA	
+PALMKOPA_00985	CDS	hypothetical protein		
+PALMKOPA_00986	CDS	rpmH	50S ribosomal protein L34	
+PALMKOPA_00987	CDS	rnpA	3.1.26.5	Ribonuclease P protein component
+PALMKOPA_00988	CDS	misCA	Membrane protein insertase MisCA	
+PALMKOPA_00989	CDS	hypothetical protein		
+PALMKOPA_00990	CDS	mnmE	3.6.-.-	tRNA modification GTPase MnmE
+PALMKOPA_00991	CDS	mnmG	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG	
+PALMKOPA_00992	CDS	mscL	Large-conductance mechanosensitive channel	
+PALMKOPA_00993	CDS	lysP_1	Lysine-specific permease	
+PALMKOPA_00994	CDS	asnB_1	6.3.5.4	Asparagine synthetase [glutamine-hydrolyzing] 1
+PALMKOPA_00995	CDS	murE_1	6.3.2.7	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+PALMKOPA_00996	CDS	murE_2	6.3.2.7	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase
+PALMKOPA_00997	CDS	spsB	3.4.21.89	Signal peptidase IB
+PALMKOPA_00998	CDS	endA_1	3.1.30.-	DNA-entry nuclease
+PALMKOPA_00999	CDS	hypothetical protein		
+PALMKOPA_01000	CDS	thrS	6.1.1.3	Threonine--tRNA ligase
+PALMKOPA_01001	CDS	hypothetical protein		
+PALMKOPA_01002	CDS	mntH_1	Divalent metal cation transporter MntH	
+PALMKOPA_01003	CDS	Putative universal stress protein		
+PALMKOPA_01004	CDS	cfa	2.1.1.79	Cyclopropane-fatty-acyl-phospholipid synthase
+PALMKOPA_01005	CDS	hypothetical protein		
+PALMKOPA_01006	CDS	hypothetical protein		
+PALMKOPA_01007	CDS	fhs1	6.3.4.3	Formate--tetrahydrofolate ligase 1
+PALMKOPA_01008	CDS	purE_1	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+PALMKOPA_01009	CDS	purK_1	6.3.4.18	N5-carboxyaminoimidazole ribonucleotide synthase
+PALMKOPA_01010	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+PALMKOPA_01011	CDS	hypothetical protein		
+PALMKOPA_01012	CDS	hypothetical protein		
+PALMKOPA_01013	CDS	hypothetical protein		
+PALMKOPA_01014	CDS	purC	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+PALMKOPA_01015	CDS	purS	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurS
+PALMKOPA_01016	CDS	purQ	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurQ
+PALMKOPA_01017	CDS	purL	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+PALMKOPA_01018	CDS	purF	2.4.2.14	Amidophosphoribosyltransferase
+PALMKOPA_01019	CDS	purM	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase
+PALMKOPA_01020	CDS	purN	2.1.2.2	Phosphoribosylglycinamide formyltransferase
+PALMKOPA_01021	CDS	purH	Bifunctional purine biosynthesis protein PurH	
+PALMKOPA_01022	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+PALMKOPA_01023	CDS	gpmA_3	5.4.2.11	"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase"
+PALMKOPA_01024	CDS	patA_2	2.6.1.-	Putative N-acetyl-LL-diaminopimelate aminotransferase
+PALMKOPA_01025	CDS	hypothetical protein		
+PALMKOPA_01026	CDS	hypothetical protein		
+PALMKOPA_01027	CDS	hypothetical protein		
+PALMKOPA_01028	CDS	copA	3.6.3.54	Copper-exporting P-type ATPase A
+PALMKOPA_01029	CDS	hypothetical protein		
+PALMKOPA_01030	CDS	hypothetical protein		
+PALMKOPA_01031	CDS	hypothetical protein		
+PALMKOPA_01032	CDS	hypothetical protein		
+PALMKOPA_01033	CDS	1.6.99.-	NADH dehydrogenase-like protein	
+PALMKOPA_01034	CDS	putative ABC transporter ATP-binding protein		
+PALMKOPA_01035	CDS	putative ABC transporter permease protein		
+PALMKOPA_01036	CDS	hypothetical protein		
+PALMKOPA_01037	CDS	moaE1	2.8.1.12	Molybdopterin synthase catalytic subunit 1
+PALMKOPA_01038	CDS	hypothetical protein		
+PALMKOPA_01039	CDS	moaA1	4.1.99.22	"GTP 3',8-cyclase 1"
+PALMKOPA_01040	CDS	narT	putative nitrate transporter NarT	
+PALMKOPA_01041	CDS	hypothetical protein		
+PALMKOPA_01042	CDS	hypothetical protein		
+PALMKOPA_01043	CDS	menG	2.1.1.163	Demethylmenaquinone methyltransferase
+PALMKOPA_01044	CDS	hypothetical protein		
+PALMKOPA_01045	CDS	hypothetical protein		
+PALMKOPA_01046	CDS	hypothetical protein		
+PALMKOPA_01047	CDS	hypothetical protein		
+PALMKOPA_01048	CDS	nreC	Oxygen regulatory protein NreC	
+PALMKOPA_01049	CDS	nreB	2.7.13.3	Oxygen sensor histidine kinase NreB
+PALMKOPA_01050	CDS	hypothetical protein		
+PALMKOPA_01051	CDS	hypothetical protein		
+PALMKOPA_01052	CDS	mobA	2.7.7.77	putative molybdenum cofactor guanylyltransferase
+PALMKOPA_01053	CDS	moaC	4.6.1.17	Cyclic pyranopterin monophosphate synthase
+PALMKOPA_01054	CDS	moeA	2.10.1.1	Molybdopterin molybdenumtransferase
+PALMKOPA_01055	CDS	moaB	Molybdenum cofactor biosynthesis protein B	
+PALMKOPA_01056	CDS	moeB	2.7.7.80	Molybdopterin-synthase adenylyltransferase
+PALMKOPA_01057	CDS	narG	1.7.99.4	Respiratory nitrate reductase 1 alpha chain
+PALMKOPA_01058	CDS	narH	1.7.99.4	Respiratory nitrate reductase 1 beta chain
+PALMKOPA_01059	CDS	narJ	Nitrate reductase molybdenum cofactor assembly chaperone NarJ	
+PALMKOPA_01060	CDS	narX	1.7.99.4	Nitrate reductase-like protein NarX
+PALMKOPA_01061	CDS	isdE_1	High-affinity heme uptake system protein IsdE	
+PALMKOPA_01062	CDS	sufB_1	FeS cluster assembly protein SufB	
+PALMKOPA_01063	CDS	iscU	Iron-sulfur cluster assembly scaffold protein IscU	
+PALMKOPA_01064	CDS	sufS	2.8.1.7	Cysteine desulfurase SufS
+PALMKOPA_01065	CDS	sufB_2	FeS cluster assembly protein SufB	
+PALMKOPA_01066	CDS	putative ABC transporter ATP-binding protein		
+PALMKOPA_01067	CDS	hypothetical protein		
+PALMKOPA_01068	CDS	feoB	Fe(2+) transporter FeoB	
+PALMKOPA_01069	CDS	hypothetical protein		
+PALMKOPA_01070	CDS	menA	2.5.1.74	"1,4-dihydroxy-2-naphthoate octaprenyltransferase"
+PALMKOPA_01071	CDS	hexs-b	2.5.1.83	"Hexaprenyl-diphosphate synthase large subunit ((2E,6E)-farnesyl-diphosphate specific)"
+PALMKOPA_01072	CDS	1.1.1.28	D-lactate dehydrogenase	
+PALMKOPA_01073	CDS	aspC	2.6.1.1	Aspartate aminotransferase
+PALMKOPA_01074	CDS	aroK	2.7.1.71	Shikimate kinase
+PALMKOPA_01075	CDS	tyrA_1	1.3.1.12	Prephenate dehydrogenase
+PALMKOPA_01076	CDS	aroA1	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase 1
+PALMKOPA_01077	CDS	hypothetical protein		
+PALMKOPA_01078	CDS	aroC	4.2.3.5	Chorismate synthase
+PALMKOPA_01079	CDS	tyrA_2	T-protein	
+PALMKOPA_01080	CDS	ydiM	Inner membrane transport protein YdiM	
+PALMKOPA_01081	CDS	hypothetical protein		
+PALMKOPA_01082	CDS	dtpT_1	Di-/tripeptide transporter	
+PALMKOPA_01083	CDS	hypothetical protein		
+PALMKOPA_01084	tRNA	tRNA-Gln(ttg)		
+PALMKOPA_01085	CDS	ybjI_1	3.1.3.-	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+PALMKOPA_01086	CDS	qorB_2	1.6.5.2	Quinone oxidoreductase 2
+PALMKOPA_01087	CDS	qorB_3	1.6.5.2	Quinone oxidoreductase 2
+PALMKOPA_01088	CDS	hypothetical protein		
+PALMKOPA_01089	CDS	hsrA	putative transport protein HsrA	
+PALMKOPA_01090	CDS	hypothetical protein		
+PALMKOPA_01091	CDS	ybiT	putative ABC transporter ATP-binding protein YbiT	
+PALMKOPA_01092	CDS	hypothetical protein		
+PALMKOPA_01093	CDS	hypothetical protein		
+PALMKOPA_01094	CDS	gshAB_2	Glutathione biosynthesis bifunctional protein GshAB	
+PALMKOPA_01095	CDS	1.1.1.-	L-2-hydroxyisocaproate dehydrogenase	
+PALMKOPA_01096	CDS	yvdD	LOG family protein YvdD	
+PALMKOPA_01097	CDS	hypothetical protein		
+PALMKOPA_01098	CDS	afr	1.1.1.292	"1,5-anhydro-D-fructose reductase"
+PALMKOPA_01099	CDS	yfmL	3.6.4.13	putative ATP-dependent RNA helicase YfmL
+PALMKOPA_01100	tRNA	tRNA-Arg(cct)		
+PALMKOPA_01101	CDS	hypothetical protein		
+PALMKOPA_01102	CDS	Flavodoxin		
+PALMKOPA_01103	CDS	map	3.4.11.18	Methionine aminopeptidase 1
+PALMKOPA_01104	CDS	hypothetical protein		
+PALMKOPA_01105	CDS	hypothetical protein		
+PALMKOPA_01106	CDS	hypothetical protein		
+PALMKOPA_01107	CDS	hypothetical protein		
+PALMKOPA_01108	CDS	recX	Regulatory protein RecX	
+PALMKOPA_01109	CDS	wcaJ	2.7.8.31	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+PALMKOPA_01110	CDS	hypothetical protein		
+PALMKOPA_01111	CDS	hypothetical protein		
+PALMKOPA_01112	CDS	cap8A_1	Capsular polysaccharide type 8 biosynthesis protein cap8A	
+PALMKOPA_01113	CDS	hypothetical protein		
+PALMKOPA_01114	CDS	glf	5.4.99.9	UDP-galactopyranose mutase
+PALMKOPA_01115	CDS	rfbX_1	Putative O-antigen transporter	
+PALMKOPA_01116	CDS	hypothetical protein		
+PALMKOPA_01117	CDS	gltT	Proton/sodium-glutamate symport protein	
+PALMKOPA_01118	CDS	pepF1	3.4.24.-	"Oligoendopeptidase F, plasmid"
+PALMKOPA_01119	CDS	kdgR_1	HTH-type transcriptional regulator KdgR	
+PALMKOPA_01120	CDS	kduD	1.1.1.127	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+PALMKOPA_01121	CDS	lrpC	HTH-type transcriptional regulator LrpC	
+PALMKOPA_01122	CDS	Putative universal stress protein		
+PALMKOPA_01123	CDS	gnd	1.1.1.44	"6-phosphogluconate dehydrogenase, decarboxylating"
+PALMKOPA_01124	CDS	zwf	1.1.1.49	Glucose-6-phosphate 1-dehydrogenase
+PALMKOPA_01125	CDS	yycB	putative transporter YycB	
+PALMKOPA_01126	CDS	hypothetical protein		
+PALMKOPA_01127	CDS	Putative NrdI-like protein		
+PALMKOPA_01128	CDS	corC_2	Magnesium and cobalt efflux protein CorC	
+PALMKOPA_01129	CDS	hypothetical protein		
+PALMKOPA_01130	CDS	hypothetical protein		
+PALMKOPA_01131	CDS	hypothetical protein		
+PALMKOPA_01132	CDS	pepDA_1	3.4.-.-	Dipeptidase A
+PALMKOPA_01133	CDS	hypothetical protein		
+PALMKOPA_01134	CDS	ybaK	4.2.-.-	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+PALMKOPA_01135	CDS	gmuR	HTH-type transcriptional regulator GmuR	
+PALMKOPA_01136	CDS	ybjI_2	3.1.3.-	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+PALMKOPA_01137	CDS	xpkA	4.1.2.9	Xylulose-5-phosphate phosphoketolase
+PALMKOPA_01138	CDS	hypothetical protein		
+PALMKOPA_01139	CDS	nrdF_1	1.17.4.1	Ribonucleoside-diphosphate reductase 2 subunit beta
+PALMKOPA_01140	CDS	nrdE	1.17.4.1	Ribonucleoside-diphosphate reductase 2 subunit alpha
+PALMKOPA_01141	CDS	nrdH	Glutaredoxin-like protein NrdH	
+PALMKOPA_01142	CDS	tadA_2	3.5.4.33	tRNA-specific adenosine deaminase
+PALMKOPA_01143	CDS	hypothetical protein		
+PALMKOPA_01144	CDS	dnaX_1	2.7.7.7	DNA polymerase III subunit tau
+PALMKOPA_01145	CDS	Nucleoid-associated protein		
+PALMKOPA_01146	CDS	recR	Recombination protein RecR	
+PALMKOPA_01147	CDS	hypothetical protein		
+PALMKOPA_01148	CDS	tmk	2.7.4.9	Thymidylate kinase
+PALMKOPA_01149	CDS	hypothetical protein		
+PALMKOPA_01150	CDS	dnaX_2	2.7.7.7	DNA polymerase III subunit tau
+PALMKOPA_01151	CDS	yabA	Initiation-control protein YabA	
+PALMKOPA_01152	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+PALMKOPA_01153	CDS	hypothetical protein		
+PALMKOPA_01154	CDS	gppA	3.6.1.40	"Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase"
+PALMKOPA_01155	CDS	ppk	2.7.4.1	Polyphosphate kinase
+PALMKOPA_01156	CDS	ppx_2	3.6.1.11	Exopolyphosphatase
+PALMKOPA_01157	CDS	galE	5.1.3.2	UDP-glucose 4-epimerase
+PALMKOPA_01158	CDS	cheB	3.1.1.61	Chemotaxis response regulator protein-glutamate methylesterase
+PALMKOPA_01159	CDS	argF	2.1.3.3	Ornithine carbamoyltransferase
+PALMKOPA_01160	CDS	arcC1	2.7.2.2	Carbamate kinase 1
+PALMKOPA_01161	CDS	arcA	3.5.3.6	Arginine deiminase
+PALMKOPA_01162	CDS	arcD1	Arginine/ornithine antiporter ArcD1	
+PALMKOPA_01163	CDS	hypothetical protein		
+PALMKOPA_01164	CDS	hssR_1	Heme response regulator HssR	
+PALMKOPA_01165	CDS	phoR_1	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+PALMKOPA_01166	CDS	1.6.5.2	NAD(P)H dehydrogenase (quinone)	
+PALMKOPA_01167	CDS	ribD	Riboflavin biosynthesis protein RibD	
+PALMKOPA_01168	CDS	ribE	2.5.1.9	Riboflavin synthase
+PALMKOPA_01169	CDS	ribBA	Riboflavin biosynthesis protein RibBA	
+PALMKOPA_01170	CDS	ribH	2.5.1.78	"6,7-dimethyl-8-ribityllumazine synthase"
+PALMKOPA_01171	CDS	ywnA_2	Putative HTH-type transcriptional regulator YwnA	
+PALMKOPA_01172	CDS	hypothetical protein		
+PALMKOPA_01173	CDS	serA	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+PALMKOPA_01174	CDS	serC	2.6.1.52	Phosphoserine aminotransferase
+PALMKOPA_01175	CDS	yhdN_1	1.1.1.-	General stress protein 69
+PALMKOPA_01176	CDS	pspA_2	3.1.3.3	Phosphoserine phosphatase 1
+PALMKOPA_01177	CDS	hypothetical protein		
+PALMKOPA_01178	CDS	lepA	3.6.5.-	Elongation factor 4
+PALMKOPA_01179	CDS	hisC	2.6.1.9	Histidinol-phosphate aminotransferase
+PALMKOPA_01180	CDS	hisE	3.6.1.31	Phosphoribosyl-ATP pyrophosphatase
+PALMKOPA_01181	CDS	hisI	3.5.4.19	Phosphoribosyl-AMP cyclohydrolase
+PALMKOPA_01182	CDS	hisF_1	4.1.3.-	Imidazole glycerol phosphate synthase subunit HisF
+PALMKOPA_01183	CDS	hisF_2	4.1.3.-	Imidazole glycerol phosphate synthase subunit HisF
+PALMKOPA_01184	CDS	hisF_3	4.1.3.-	Imidazole glycerol phosphate synthase subunit HisF
+PALMKOPA_01185	CDS	hisH	2.4.2.-	Imidazole glycerol phosphate synthase subunit HisH
+PALMKOPA_01186	CDS	dnaJ	Chaperone protein DnaJ	
+PALMKOPA_01187	CDS	dnaK	Chaperone protein DnaK	
+PALMKOPA_01188	CDS	grpE	Protein GrpE	
+PALMKOPA_01189	CDS	hrcA	Heat-inducible transcription repressor HrcA	
+PALMKOPA_01190	CDS	hypothetical protein		
+PALMKOPA_01191	CDS	hypothetical protein		
+PALMKOPA_01192	CDS	ydjP_1	3.-.-.-	AB hydrolase superfamily protein YdjP
+PALMKOPA_01193	CDS	citG_1	2.4.2.52	2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase
+PALMKOPA_01194	CDS	citF	4.1.3.6	Citrate lyase alpha chain
+PALMKOPA_01195	CDS	citE	4.1.3.6	Citrate lyase subunit beta
+PALMKOPA_01196	CDS	citD	Citrate lyase acyl carrier protein	
+PALMKOPA_01197	CDS	citC	6.2.1.22	[Citrate [pro-3S]-lyase] ligase
+PALMKOPA_01198	CDS	1.1.1.38	NAD-dependent malic enzyme	
+PALMKOPA_01199	CDS	sorC_1	Sorbitol operon regulator	
+PALMKOPA_01200	CDS	yflS	Putative malate transporter YflS	
+PALMKOPA_01201	CDS	ldh_2	1.1.1.27	L-lactate dehydrogenase
+PALMKOPA_01202	CDS	ifcA	1.3.5.4	Fumarate reductase flavoprotein subunit
+PALMKOPA_01203	CDS	fumC	4.2.1.2	Fumarate hydratase class II
+PALMKOPA_01204	CDS	nfr1_1	1.5.1.36	NADH-dependent flavin reductase subunit 1
+PALMKOPA_01205	CDS	nfr1_2	1.5.1.36	NADH-dependent flavin reductase subunit 1
+PALMKOPA_01206	CDS	mleS	4.1.1.101	Malolactic enzyme
+PALMKOPA_01207	CDS	oxyR_1	Hydrogen peroxide-inducible genes activator	
+PALMKOPA_01208	CDS	nlhH_2	3.1.1.1	Carboxylesterase NlhH
+PALMKOPA_01209	CDS	Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase		
+PALMKOPA_01210	CDS	treP	PTS system trehalose-specific EIIBC component	
+PALMKOPA_01211	CDS	adhA_1	1.1.1.1	putative alcohol dehydrogenase AdhA
+PALMKOPA_01212	CDS	serS	6.1.1.11	Serine--tRNA ligase
+PALMKOPA_01213	CDS	sbcC	Nuclease SbcCD subunit C	
+PALMKOPA_01214	CDS	sbcD	Nuclease SbcCD subunit D	
+PALMKOPA_01215	CDS	hypothetical protein		
+PALMKOPA_01216	CDS	dltA	6.1.1.13	D-alanine--poly(phosphoribitol) ligase subunit 1
+PALMKOPA_01217	CDS	patA_3	2.3.1.-	Peptidoglycan O-acetyltransferase
+PALMKOPA_01218	CDS	dltC	6.1.1.13	D-alanine--poly(phosphoribitol) ligase subunit 2
+PALMKOPA_01219	CDS	hypothetical protein		
+PALMKOPA_01220	CDS	yhdN_2	1.1.1.-	General stress protein 69
+PALMKOPA_01221	CDS	brnQ_1	Branched-chain amino acid transport system 2 carrier protein	
+PALMKOPA_01222	CDS	rlmCD_1	2.1.1.189	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+PALMKOPA_01223	CDS	dapE_1	3.5.1.18	putative succinyl-diaminopimelate desuccinylase
+PALMKOPA_01224	CDS	metP	Methionine import system permease protein MetP	
+PALMKOPA_01225	CDS	metN	3.6.3.-	Methionine import ATP-binding protein MetN
+PALMKOPA_01226	CDS	metQ_2	D-methionine-binding lipoprotein MetQ	
+PALMKOPA_01227	CDS	tagE	2.4.1.52	Poly(glycerol-phosphate) alpha-glucosyltransferase
+PALMKOPA_01228	CDS	gtf1	2.4.1.-	Glycosyltransferase Gtf1
+PALMKOPA_01229	CDS	hypothetical protein		
+PALMKOPA_01230	CDS	hypothetical protein		
+PALMKOPA_01231	CDS	yifK_2	putative transport protein YifK	
+PALMKOPA_01232	CDS	hypothetical protein		
+PALMKOPA_01233	CDS	pepDA_2	3.4.-.-	Dipeptidase A
+PALMKOPA_01234	CDS	endA_2	3.1.30.-	DNA-entry nuclease
+PALMKOPA_01235	CDS	mmgB	1.1.1.157	putative 3-hydroxybutyryl-CoA dehydrogenase
+PALMKOPA_01236	CDS	hypothetical protein		
+PALMKOPA_01237	CDS	hypothetical protein		
+PALMKOPA_01238	CDS	hypothetical protein		
+PALMKOPA_01239	CDS	hypothetical protein		
+PALMKOPA_01240	CDS	pbpX_2	Putative penicillin-binding protein PbpX	
+PALMKOPA_01241	CDS	hypothetical protein		
+PALMKOPA_01242	CDS	hypothetical protein		
+PALMKOPA_01243	CDS	hypothetical protein		
+PALMKOPA_01244	CDS	thlA	2.3.1.9	Acetyl-CoA acetyltransferase
+PALMKOPA_01245	CDS	hypothetical protein		
+PALMKOPA_01246	CDS	cynR_1	HTH-type transcriptional regulator CynR	
+PALMKOPA_01247	CDS	urdA	1.3.99.33	Urocanate reductase
+PALMKOPA_01248	CDS	hypothetical protein		
+PALMKOPA_01249	CDS	hypothetical protein		
+PALMKOPA_01250	CDS	yicL_1	putative inner membrane transporter YicL	
+PALMKOPA_01251	CDS	hypothetical protein		
+PALMKOPA_01252	CDS	hypothetical protein		
+PALMKOPA_01253	CDS	hypothetical protein		
+PALMKOPA_01254	CDS	hypothetical protein		
+PALMKOPA_01255	CDS	hypothetical protein		
+PALMKOPA_01256	CDS	hypothetical protein		
+PALMKOPA_01257	CDS	gshAB_3	Glutathione biosynthesis bifunctional protein GshAB	
+PALMKOPA_01258	CDS	hypothetical protein		
+PALMKOPA_01259	CDS	2.6.1.1	Aspartate aminotransferase	
+PALMKOPA_01260	CDS	hypothetical protein		
+PALMKOPA_01261	CDS	kdgR_2	HTH-type transcriptional regulator KdgR	
+PALMKOPA_01262	CDS	gntT	High-affinity gluconate transporter	
+PALMKOPA_01263	CDS	xylB_2	2.7.1.17	Xylulose kinase
+PALMKOPA_01264	CDS	hypothetical protein		
+PALMKOPA_01265	CDS	hypothetical protein		
+PALMKOPA_01266	CDS	3.6.3.8	Calcium-transporting ATPase	
+PALMKOPA_01267	CDS	hypothetical protein		
+PALMKOPA_01268	CDS	copY_1	Transcriptional repressor CopY	
+PALMKOPA_01269	CDS	hypothetical protein		
+PALMKOPA_01270	CDS	bglK	2.7.1.85	Beta-glucoside kinase
+PALMKOPA_01271	CDS	ascD	1.17.1.-	CDP-6-deoxy-L-threo-D-glycero-4-hexulose-3-dehydrase reductase
+PALMKOPA_01272	CDS	ubiB	2.7.-.-	putative protein kinase UbiB
+PALMKOPA_01273	CDS	hypothetical protein		
+PALMKOPA_01274	CDS	Virulence protein		
+PALMKOPA_01275	CDS	crcB_1	Putative fluoride ion transporter CrcB	
+PALMKOPA_01276	CDS	crcB_2	Putative fluoride ion transporter CrcB	
+PALMKOPA_01277	CDS	hypothetical protein		
+PALMKOPA_01278	CDS	smc_3	Chromosome partition protein Smc	
+PALMKOPA_01279	CDS	yfkJ	3.1.3.48	Low molecular weight protein-tyrosine-phosphatase YfkJ
+PALMKOPA_01280	CDS	hypothetical protein		
+PALMKOPA_01281	CDS	htpX	3.4.24.-	Protease HtpX 
+PALMKOPA_01282	CDS	murF_2	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+PALMKOPA_01283	CDS	cshA	3.6.4.13	ATP-dependent RNA helicase CshA
+PALMKOPA_01284	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+PALMKOPA_01285	CDS	alr	5.1.1.1	Alanine racemase
+PALMKOPA_01286	CDS	ndoA	3.1.27.-	Endoribonuclease EndoA
+PALMKOPA_01287	CDS	hypothetical protein		
+PALMKOPA_01288	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+PALMKOPA_01289	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+PALMKOPA_01290	CDS	hslR	Heat shock protein 15	
+PALMKOPA_01291	CDS	ftsB	Cell division protein FtsB	
+PALMKOPA_01292	CDS	yugI	General stress protein 13	
+PALMKOPA_01293	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+PALMKOPA_01294	CDS	hpt	2.4.2.8	Hypoxanthine-guanine phosphoribosyltransferase
+PALMKOPA_01295	CDS	ftsH	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+PALMKOPA_01296	CDS	hslO	33 kDa chaperonin	
+PALMKOPA_01297	CDS	dus	1.3.1.-	putative tRNA-dihydrouridine synthase
+PALMKOPA_01298	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+PALMKOPA_01299	CDS	rpiA_2	5.3.1.6	Ribose-5-phosphate isomerase A
+PALMKOPA_01300	CDS	lacA_1	2.3.1.18	Galactoside O-acetyltransferase
+PALMKOPA_01301	CDS	pepC	3.4.22.40	Aminopeptidase C
+PALMKOPA_01302	CDS	hypothetical protein		
+PALMKOPA_01303	CDS	gpmA_4	5.4.2.11	"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase"
+PALMKOPA_01304	CDS	hypothetical protein		
+PALMKOPA_01305	CDS	lacM	3.2.1.23	Beta-galactosidase small subunit
+PALMKOPA_01306	CDS	lacL	3.2.1.23	Beta-galactosidase large subunit
+PALMKOPA_01307	tRNA	tRNA-Leu(aag)		
+PALMKOPA_01308	CDS	Protein SprT-like protein		
+PALMKOPA_01309	CDS	rpsA	30S ribosomal protein S1	
+PALMKOPA_01310	CDS	nadE_1	6.3.1.5	NH(3)-dependent NAD(+) synthetase
+PALMKOPA_01311	CDS	pncB2_2	6.3.4.21	Nicotinate phosphoribosyltransferase pncB2
+PALMKOPA_01312	CDS	yvoA	HTH-type transcriptional repressor YvoA	
+PALMKOPA_01313	CDS	5.1.1.13	Aspartate racemase	
+PALMKOPA_01314	CDS	hypothetical protein		
+PALMKOPA_01315	tRNA	tRNA-Gln(ttg)		
+PALMKOPA_01316	tRNA	tRNA-Tyr(gta)		
+PALMKOPA_01317	CDS	cpdA_2	3.1.4.53	"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA"
+PALMKOPA_01318	CDS	dtpT_2	Di-/tripeptide transporter	
+PALMKOPA_01319	CDS	smc_4	Chromosome partition protein Smc	
+PALMKOPA_01320	CDS	scrB	3.2.1.26	Sucrose-6-phosphate hydrolase
+PALMKOPA_01321	CDS	hypothetical protein		
+PALMKOPA_01322	CDS	cynR_2	HTH-type transcriptional regulator CynR	
+PALMKOPA_01323	CDS	hypothetical protein		
+PALMKOPA_01324	CDS	hypothetical protein		
+PALMKOPA_01325	CDS	hypothetical protein		
+PALMKOPA_01326	CDS	yjeM_1	Inner membrane transporter YjeM	
+PALMKOPA_01327	CDS	hypothetical protein		
+PALMKOPA_01328	CDS	dacA_2	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacA
+PALMKOPA_01329	CDS	hypothetical protein		
+PALMKOPA_01330	CDS	pgl_2	3.1.1.31	6-phosphogluconolactonase
+PALMKOPA_01331	CDS	hypothetical protein		
+PALMKOPA_01332	CDS	hypothetical protein		
+PALMKOPA_01333	CDS	radD	3.6.4.12	Putative DNA repair helicase RadD
+PALMKOPA_01334	CDS	mutT2	3.6.1.55	Putative 8-oxo-dGTP diphosphatase 2
+PALMKOPA_01335	CDS	hypothetical protein		
+PALMKOPA_01336	CDS	ribZ_2	Riboflavin transporter RibZ	
+PALMKOPA_01337	CDS	hypothetical protein		
+PALMKOPA_01338	CDS	hypothetical protein		
+PALMKOPA_01339	CDS	hypothetical protein		
+PALMKOPA_01340	CDS	hypothetical protein		
+PALMKOPA_01341	CDS	czcD	"Cadmium, cobalt and zinc/H(+)-K(+) antiporter"	
+PALMKOPA_01342	CDS	hypothetical protein		
+PALMKOPA_01343	CDS	hypothetical protein		
+PALMKOPA_01344	CDS	Putative universal stress protein		
+PALMKOPA_01345	CDS	2.3.1.-	Acetyltransferase	
+PALMKOPA_01346	CDS	hypothetical protein		
+PALMKOPA_01347	CDS	rnj1	3.1.-.-	Ribonuclease J 1
+PALMKOPA_01348	CDS	hypothetical protein		
+PALMKOPA_01349	CDS	hypothetical protein		
+PALMKOPA_01350	CDS	emrY	putative multidrug resistance protein EmrY	
+PALMKOPA_01351	CDS	hypothetical protein		
+PALMKOPA_01352	CDS	araA	5.3.1.4	L-arabinose isomerase
+PALMKOPA_01353	CDS	rluD_2	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+PALMKOPA_01354	tRNA	tRNA-Asp(gtc)		
+PALMKOPA_01355	CDS	mprF	2.3.2.3	Phosphatidylglycerol lysyltransferase
+PALMKOPA_01356	CDS	yraA	3.2.-.-	Putative cysteine protease YraA
+PALMKOPA_01357	CDS	mlhB	3.1.1.83	Monoterpene epsilon-lactone hydrolase
+PALMKOPA_01358	CDS	hypothetical protein		
+PALMKOPA_01359	CDS	yjjP	Inner membrane protein YjjP	
+PALMKOPA_01360	CDS	oxyR_2	Hydrogen peroxide-inducible genes activator	
+PALMKOPA_01361	CDS	fixK	Nitrogen fixation regulation protein FixK	
+PALMKOPA_01362	CDS	scdA	Iron-sulfur cluster repair protein ScdA	
+PALMKOPA_01363	CDS	copZ_2	Copper chaperone CopZ	
+PALMKOPA_01364	CDS	cadA_3	3.6.3.3	putative cadmium-transporting ATPase
+PALMKOPA_01365	CDS	hypothetical protein		
+PALMKOPA_01366	CDS	hypothetical protein		
+PALMKOPA_01367	CDS	hypothetical protein		
+PALMKOPA_01368	CDS	rlmCD_2	2.1.1.189	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+PALMKOPA_01369	CDS	dagK	2.7.1.107	Diacylglycerol kinase
+PALMKOPA_01370	CDS	gatB	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+PALMKOPA_01371	CDS	gatA	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+PALMKOPA_01372	CDS	gatC_1	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit C
+PALMKOPA_01373	CDS	hypothetical protein		
+PALMKOPA_01374	CDS	ligA	6.5.1.2	DNA ligase
+PALMKOPA_01375	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+PALMKOPA_01376	CDS	purK_2	6.3.4.18	N5-carboxyaminoimidazole ribonucleotide synthase
+PALMKOPA_01377	CDS	xpt	2.4.2.22	Xanthine phosphoribosyltransferase
+PALMKOPA_01378	CDS	lytG_1	3.2.1.-	Exo-glucosaminidase LytG
+PALMKOPA_01379	CDS	budC	1.1.1.304	Diacetyl reductase [(S)-acetoin forming]
+PALMKOPA_01380	CDS	hypothetical protein		
+PALMKOPA_01381	CDS	gmuE	2.7.1.4	Putative fructokinase
+PALMKOPA_01382	CDS	mepA_2	Multidrug export protein MepA	
+PALMKOPA_01383	CDS	nrgA	Ammonium transporter NrgA	
+PALMKOPA_01384	CDS	hypothetical protein		
+PALMKOPA_01385	CDS	ecfA1_2	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA1
+PALMKOPA_01386	CDS	lsrC	Autoinducer 2 import system permease protein LsrC	
+PALMKOPA_01387	CDS	hypothetical protein		
+PALMKOPA_01388	CDS	uup	ABC transporter ATP-binding protein uup	
+PALMKOPA_01389	CDS	nrnB	3.1.-.-	Oligoribonuclease NrnB
+PALMKOPA_01390	CDS	hypothetical protein		
+PALMKOPA_01391	CDS	yciB	2.-.-.-	"Putative L,D-transpeptidase YciB"
+PALMKOPA_01392	CDS	Putative NrdI-like protein		
+PALMKOPA_01393	CDS	nrdE1	1.17.4.1	Ribonucleoside-diphosphate reductase subunit alpha 1
+PALMKOPA_01394	CDS	nrdF_2	1.17.4.1	Ribonucleoside-diphosphate reductase 2 subunit beta
+PALMKOPA_01395	CDS	nrdF_3	1.17.4.1	Ribonucleoside-diphosphate reductase 2 subunit beta
+PALMKOPA_01396	CDS	hypothetical protein		
+PALMKOPA_01397	CDS	ppaX	3.6.1.1	Pyrophosphatase PpaX
+PALMKOPA_01398	CDS	fpaP	3.4.11.5	Proline iminopeptidase
+PALMKOPA_01399	CDS	patB	4.4.1.8	Cystathionine beta-lyase PatB
+PALMKOPA_01400	CDS	cbh	3.5.1.24	Choloylglycine hydrolase
+PALMKOPA_01401	CDS	xerS	Tyrosine recombinase XerS	
+PALMKOPA_01402	CDS	hypothetical protein		
+PALMKOPA_01403	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+PALMKOPA_01404	CDS	pdxK_2	2.7.1.35	Pyridoxine kinase
+PALMKOPA_01405	CDS	hmpT	Thiamine precursor transporter HmpT	
+PALMKOPA_01406	CDS	yvgN_2	1.1.1.-	Glyoxal reductase
+PALMKOPA_01407	CDS	hypothetical protein		
+PALMKOPA_01408	CDS	hypothetical protein		
+PALMKOPA_01409	CDS	hypothetical protein		
+PALMKOPA_01410	CDS	hypothetical protein		
+PALMKOPA_01411	CDS	nlhH_3	3.1.1.1	Carboxylesterase NlhH
+PALMKOPA_01412	CDS	hypothetical protein		
+PALMKOPA_01413	CDS	hypothetical protein		
+PALMKOPA_01414	CDS	hypothetical protein		
+PALMKOPA_01415	CDS	vioD_2	4.2.1.145	Capreomycidine synthase
+PALMKOPA_01416	CDS	1.5.1.49	Delta(1)-pyrroline-2-carboxylate reductase	
+PALMKOPA_01417	CDS	ygcS	Inner membrane metabolite transport protein YgcS	
+PALMKOPA_01418	CDS	pyrE_2	2.4.2.10	Orotate phosphoribosyltransferase
+PALMKOPA_01419	CDS	hypothetical protein		
+PALMKOPA_01420	CDS	lacA_2	2.3.1.18	Galactoside O-acetyltransferase
+PALMKOPA_01421	CDS	lacA_3	2.3.1.18	Galactoside O-acetyltransferase
+PALMKOPA_01422	CDS	lacA_4	2.3.1.18	Galactoside O-acetyltransferase
+PALMKOPA_01423	CDS	gspB	Platelet binding protein GspB	
+PALMKOPA_01424	CDS	nylA	3.5.2.12	6-aminohexanoate-cyclic-dimer hydrolase
+PALMKOPA_01425	CDS	hypothetical protein		
+PALMKOPA_01426	CDS	hypothetical protein		
+PALMKOPA_01427	CDS	hypothetical protein		
+PALMKOPA_01428	CDS	3.4.13.-	Putative dipeptidase	
+PALMKOPA_01429	CDS	rlmL	2.1.1.173	Ribosomal RNA large subunit methyltransferase L
+PALMKOPA_01430	CDS	rppH	3.6.1.-	RNA pyrophosphohydrolase
+PALMKOPA_01431	CDS	hypothetical protein		
+PALMKOPA_01432	CDS	tetO	Tetracycline resistance protein TetO	
+PALMKOPA_01433	CDS	gpsB	Cell cycle protein GpsB	
+PALMKOPA_01434	CDS	hypothetical protein		
+PALMKOPA_01435	CDS	recU	3.1.22.-	Holliday junction resolvase RecU
+PALMKOPA_01436	CDS	ponA	Penicillin-binding protein 1A	
+PALMKOPA_01437	CDS	yicL_2	putative inner membrane transporter YicL	
+PALMKOPA_01438	CDS	gpr	1.1.1.-	L-glyceraldehyde 3-phosphate reductase
+PALMKOPA_01439	CDS	npr	1.11.1.1	NADH peroxidase
+PALMKOPA_01440	CDS	hypothetical protein		
+PALMKOPA_01441	CDS	hypothetical protein		
+PALMKOPA_01442	CDS	hypothetical protein		
+PALMKOPA_01443	CDS	nhaC	Na(+)/H(+) antiporter NhaC	
+PALMKOPA_01444	CDS	hypothetical protein		
+PALMKOPA_01445	CDS	3.5.3.18	"N(G),N(G)-dimethylarginine dimethylaminohydrolase"	
+PALMKOPA_01446	CDS	proX	Prolyl-tRNA editing protein ProX	
+PALMKOPA_01447	CDS	mco	1.-.-.-	Multicopper oxidase mco
+PALMKOPA_01448	CDS	hypothetical protein		
+PALMKOPA_01449	CDS	hypothetical protein		
+PALMKOPA_01450	CDS	rebM	2.1.1.164	Demethylrebeccamycin-D-glucose O-methyltransferase
+PALMKOPA_01451	CDS	hypothetical protein		
+PALMKOPA_01452	CDS	hypothetical protein		
+PALMKOPA_01453	CDS	ogt	2.1.1.63	"Methylated-DNA--protein-cysteine methyltransferase, constitutive"
+PALMKOPA_01454	CDS	hypothetical protein		
+PALMKOPA_01455	CDS	fsr	Fosmidomycin resistance protein	
+PALMKOPA_01456	CDS	hosA	Transcriptional regulator HosA	
+PALMKOPA_01457	CDS	lytR_1	Transcriptional regulator LytR	
+PALMKOPA_01458	CDS	hypothetical protein		
+PALMKOPA_01459	CDS	dps	1.16.-.-	DNA protection during starvation protein
+PALMKOPA_01460	CDS	wbbD	2.4.1.303	"UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-galactosyltransferase"
+PALMKOPA_01461	CDS	pglC	2.7.8.36	"Undecaprenyl phosphate N,N'-diacetylbacillosamine 1-phosphate transferase"
+PALMKOPA_01462	CDS	ywqE	3.1.3.48	Tyrosine-protein phosphatase YwqE
+PALMKOPA_01463	CDS	ywqD	2.7.10.2	Tyrosine-protein kinase YwqD
+PALMKOPA_01464	CDS	cap8A_2	Capsular polysaccharide type 8 biosynthesis protein cap8A	
+PALMKOPA_01465	CDS	lytR_2	Transcriptional regulator LytR	
+PALMKOPA_01466	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+PALMKOPA_01467	CDS	hypothetical protein		
+PALMKOPA_01468	CDS	ychF	Ribosome-binding ATPase YchF	
+PALMKOPA_01469	CDS	hypothetical protein		
+PALMKOPA_01470	CDS	parB	putative chromosome-partitioning protein ParB	
+PALMKOPA_01471	CDS	noc	Nucleoid occlusion protein	
+PALMKOPA_01472	CDS	rsmG	2.1.1.-	Ribosomal RNA small subunit methyltransferase G
+PALMKOPA_01473	CDS	rihC	3.2.-.-	Non-specific ribonucleoside hydrolase RihC
+PALMKOPA_01474	CDS	nupG	Purine nucleoside transport protein NupG	
+PALMKOPA_01475	CDS	bglY	3.2.1.23	Beta-galactosidase BglY
+PALMKOPA_01476	CDS	hypothetical protein		
+PALMKOPA_01477	CDS	hypothetical protein		
+PALMKOPA_01478	tRNA	tRNA-Arg(tct)		
+PALMKOPA_01479	CDS	mtrR	HTH-type transcriptional regulator MtrR	
+PALMKOPA_01480	CDS	rplU	50S ribosomal protein L21	
+PALMKOPA_01481	CDS	hypothetical protein		
+PALMKOPA_01482	CDS	rpmA	50S ribosomal protein L27	
+PALMKOPA_01483	CDS	ypdF	3.4.11.-	Aminopeptidase YpdF
+PALMKOPA_01484	CDS	Alkaline shock protein 23		
+PALMKOPA_01485	CDS	nusB	N utilization substance protein B 	
+PALMKOPA_01486	CDS	folD	Bifunctional protein FolD protein	
+PALMKOPA_01487	CDS	xseA	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+PALMKOPA_01488	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+PALMKOPA_01489	CDS	2.5.1.10	Farnesyl diphosphate synthase	
+PALMKOPA_01490	CDS	tlyA	Hemolysin A	
+PALMKOPA_01491	CDS	argR_2	Arginine repressor	
+PALMKOPA_01492	CDS	recN	DNA repair protein RecN	
+PALMKOPA_01493	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+PALMKOPA_01494	CDS	hypothetical protein		
+PALMKOPA_01495	CDS	hypothetical protein		
+PALMKOPA_01496	CDS	kgtP	Alpha-ketoglutarate permease	
+PALMKOPA_01497	CDS	fepC	Ferric enterobactin transport ATP-binding protein FepC	
+PALMKOPA_01498	CDS	isdF	putative heme-iron transport system permease protein IsdF	
+PALMKOPA_01499	CDS	isdE_2	High-affinity heme uptake system protein IsdE	
+PALMKOPA_01500	CDS	isdC	Iron-regulated surface determinant protein C	
+PALMKOPA_01501	CDS	hypothetical protein		
+PALMKOPA_01502	CDS	hypothetical protein		
+PALMKOPA_01503	CDS	ahpD	1.11.1.15	Alkyl hydroperoxide reductase AhpD
+PALMKOPA_01504	CDS	hypothetical protein		
+PALMKOPA_01505	CDS	hypothetical protein		
+PALMKOPA_01506	CDS	steT	Serine/threonine exchanger SteT	
+PALMKOPA_01507	CDS	rplJ	50S ribosomal protein L10	
+PALMKOPA_01508	CDS	rplL	50S ribosomal protein L7/L12	
+PALMKOPA_01509	CDS	cydA	1.10.3.-	Cytochrome bd ubiquinol oxidase subunit 1
+PALMKOPA_01510	CDS	cydB	1.10.3.14	Cytochrome bd-I ubiquinol oxidase subunit 2
+PALMKOPA_01511	CDS	cydD	ATP-binding/permease protein CydD	
+PALMKOPA_01512	CDS	putative ABC transporter ATP-binding protein		
+PALMKOPA_01513	CDS	adhE	Aldehyde-alcohol dehydrogenase	
+PALMKOPA_01514	CDS	brnQ_2	Branched-chain amino acid transport system 2 carrier protein	
+PALMKOPA_01515	CDS	pepN	3.4.11.2	Aminopeptidase N
+PALMKOPA_01516	CDS	adh_2	1.1.1.1	Alcohol dehydrogenase
+PALMKOPA_01517	CDS	hypothetical protein		
+PALMKOPA_01518	CDS	hypothetical protein		
+PALMKOPA_01519	CDS	nfnB_1	1.-.-.-	Nitroreductase NfnB
+PALMKOPA_01520	CDS	rihA_2	3.2.-.-	Pyrimidine-specific ribonucleoside hydrolase RihA
+PALMKOPA_01521	CDS	hypothetical protein		
+PALMKOPA_01522	CDS	allD	1.1.1.350	Ureidoglycolate dehydrogenase (NAD(+))
+PALMKOPA_01523	CDS	allC	3.5.3.-	Allantoate amidohydrolase
+PALMKOPA_01524	CDS	allB	3.5.2.5	Allantoinase
+PALMKOPA_01525	CDS	pucR	Purine catabolism regulatory protein	
+PALMKOPA_01526	CDS	pucG_1	2.-.-.-	Purine catabolism protein PucG
+PALMKOPA_01527	CDS	pucG_2	2.-.-.-	Purine catabolism protein PucG
+PALMKOPA_01528	CDS	pucG_3	2.-.-.-	Purine catabolism protein PucG
+PALMKOPA_01529	CDS	1.1.1.-	Putative 2-hydroxyacid dehydrogenase	
+PALMKOPA_01530	tRNA	tRNA-Glu(ttc)		
+PALMKOPA_01531	tRNA	tRNA-Val(tac)		
+PALMKOPA_01532	tRNA	tRNA-Phe(gaa)		
+PALMKOPA_01533	tRNA	tRNA-Tyr(gta)		
+PALMKOPA_01534	tRNA	tRNA-Trp(cca)		
+PALMKOPA_01535	tRNA	tRNA-His(gtg)		
+PALMKOPA_01536	tRNA	tRNA-Cys(gca)		
+PALMKOPA_01537	tRNA	tRNA-Leu(caa)		
+PALMKOPA_01538	CDS	hypothetical protein		
+PALMKOPA_01539	CDS	hypothetical protein		
+PALMKOPA_01540	CDS	qacC	Quaternary ammonium compound-resistance protein QacC	
+PALMKOPA_01541	CDS	artP_1	Arginine-binding extracellular protein ArtP	
+PALMKOPA_01542	CDS	artQ	Arginine transport system permease protein ArtQ	
+PALMKOPA_01543	CDS	nrdD	1.17.4.2	Anaerobic ribonucleoside-triphosphate reductase
+PALMKOPA_01544	CDS	nrdG	1.97.1.-	Anaerobic ribonucleoside-triphosphate reductase-activating protein
+PALMKOPA_01545	CDS	hypothetical protein		
+PALMKOPA_01546	CDS	pucK_2	Uric acid permease PucK	
+PALMKOPA_01547	CDS	adh_3	1.1.1.80	NADP-dependent isopropanol dehydrogenase
+PALMKOPA_01548	CDS	hypothetical protein		
+PALMKOPA_01549	CDS	3.1.2.-	putative acyl-CoA thioester hydrolase	
+PALMKOPA_01550	CDS	Acid shock protein		
+PALMKOPA_01551	CDS	hypothetical protein		
+PALMKOPA_01552	CDS	yueB	ESX secretion system protein YueB	
+PALMKOPA_01553	CDS	hypothetical protein		
+PALMKOPA_01554	CDS	5.1.3.21	Maltose epimerase	
+PALMKOPA_01555	CDS	hypothetical protein		
+PALMKOPA_01556	CDS	hypothetical protein		
+PALMKOPA_01557	CDS	zur	Zinc-specific metallo-regulatory protein	
+PALMKOPA_01558	CDS	gmk_2	2.7.4.8	Guanylate kinase
+PALMKOPA_01559	CDS	ndx1	3.6.1.61	Diadenosine hexaphosphate hydrolase
+PALMKOPA_01560	CDS	yhdG_3	putative amino acid permease YhdG	
+PALMKOPA_01561	CDS	pepX	3.4.14.11	Xaa-Pro dipeptidyl-peptidase
+PALMKOPA_01562	CDS	3.1.2.-	Putative esterase	
+PALMKOPA_01563	CDS	menB	4.1.3.36	"1,4-dihydroxy-2-naphthoyl-CoA synthase"
+PALMKOPA_01564	CDS	menE	6.2.1.26	2-succinylbenzoate--CoA ligase
+PALMKOPA_01565	CDS	sauU	putative sulfoacetate transporter SauU	
+PALMKOPA_01566	CDS	adh_4	1.1.1.80	NADP-dependent isopropanol dehydrogenase
+PALMKOPA_01567	CDS	metB_2	2.5.1.48	Cystathionine gamma-synthase
+PALMKOPA_01568	CDS	cysM	2.5.1.47	Cysteine synthase
+PALMKOPA_01569	CDS	hypothetical protein		
+PALMKOPA_01570	CDS	hypothetical protein		
+PALMKOPA_01571	CDS	hypothetical protein		
+PALMKOPA_01572	CDS	FMN-binding protein		
+PALMKOPA_01573	CDS	hypothetical protein		
+PALMKOPA_01574	CDS	hypothetical protein		
+PALMKOPA_01575	CDS	hypothetical protein		
+PALMKOPA_01576	CDS	dnaD	DNA replication protein DnaD	
+PALMKOPA_01577	CDS	asnS	6.1.1.22	Asparagine--tRNA ligase
+PALMKOPA_01578	CDS	hypothetical protein		
+PALMKOPA_01579	CDS	dinG	3.6.4.12	putative ATP-dependent helicase DinG 
+PALMKOPA_01580	CDS	galK_2	2.7.1.6	Galactokinase
+PALMKOPA_01581	CDS	thrB_2	2.7.1.39	Homoserine kinase
+PALMKOPA_01582	CDS	2.7.4.2	Phosphomevalonate kinase	
+PALMKOPA_01583	CDS	fni	5.3.3.2	Isopentenyl-diphosphate delta-isomerase
+PALMKOPA_01584	CDS	pstB3_2	3.6.3.27	Phosphate import ATP-binding protein PstB 3
+PALMKOPA_01585	CDS	hypothetical protein		
+PALMKOPA_01586	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+PALMKOPA_01587	CDS	glnA	6.3.1.2	Glutamine synthetase
+PALMKOPA_01588	CDS	hypothetical protein		
+PALMKOPA_01589	CDS	hypothetical protein		
+PALMKOPA_01590	CDS	hypothetical protein		
+PALMKOPA_01591	CDS	hypothetical protein		
+PALMKOPA_01592	CDS	xerD_3	Tyrosine recombinase XerD	
+PALMKOPA_01593	CDS	hypothetical protein		
+PALMKOPA_01594	CDS	hypothetical protein		
+PALMKOPA_01595	CDS	hypothetical protein		
+PALMKOPA_01596	CDS	hypothetical protein		
+PALMKOPA_01597	CDS	hypothetical protein		
+PALMKOPA_01598	CDS	hypothetical protein		
+PALMKOPA_01599	CDS	immR	HTH-type transcriptional regulator ImmR	
+PALMKOPA_01600	CDS	ideR	Iron-dependent repressor IdeR	
+PALMKOPA_01601	CDS	cspLA	Cold shock-like protein CspLA	
+PALMKOPA_01602	CDS	hypothetical protein		
+PALMKOPA_01603	CDS	hypothetical protein		
+PALMKOPA_01604	CDS	hypothetical protein		
+PALMKOPA_01605	CDS	hypothetical protein		
+PALMKOPA_01606	CDS	rimL	2.3.1.-	Ribosomal-protein-serine acetyltransferase
+PALMKOPA_01607	CDS	lysP_2	Lysine-specific permease	
+PALMKOPA_01608	CDS	2.7.1.113	Deoxyguanosine kinase	
+PALMKOPA_01609	tRNA	tRNA-Val(tac)		
+PALMKOPA_01610	tRNA	tRNA-Leu(tag)		
+PALMKOPA_01611	tRNA	tRNA-Gly(gcc)		
+PALMKOPA_01612	tRNA	tRNA-Arg(acg)		
+PALMKOPA_01613	tRNA	tRNA-Pro(cgg)		
+PALMKOPA_01614	CDS	hdhA	1.1.1.159	7-alpha-hydroxysteroid dehydrogenase
+PALMKOPA_01615	CDS	fabG2	1.-.-.-	putative oxidoreductase
+PALMKOPA_01616	CDS	lvr_2	1.1.1.-	Levodione reductase
+PALMKOPA_01617	CDS	uppP	3.6.1.27	Undecaprenyl-diphosphatase
+PALMKOPA_01618	CDS	hypothetical protein		
+PALMKOPA_01619	CDS	ykoE_2	Putative HMP/thiamine permease protein YkoE	
+PALMKOPA_01620	CDS	hypothetical protein		
+PALMKOPA_01621	CDS	putative HTH-type transcriptional regulator		
+PALMKOPA_01622	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+PALMKOPA_01623	CDS	patA_4	2.6.1.-	Putative N-acetyl-LL-diaminopimelate aminotransferase
+PALMKOPA_01624	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+PALMKOPA_01625	CDS	dapA_1	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+PALMKOPA_01626	CDS	ykuR	3.5.1.47	N-acetyldiaminopimelate deacetylase
+PALMKOPA_01627	CDS	dapH	2.3.1.89	"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase"
+PALMKOPA_01628	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+PALMKOPA_01629	CDS	yclM	2.7.2.4	Aspartokinase 3
+PALMKOPA_01630	CDS	dapF	5.1.1.7	Diaminopimelate epimerase
+PALMKOPA_01631	CDS	apbE	2.7.1.180	FAD:protein FMN transferase
+PALMKOPA_01632	CDS	hypothetical protein		
+PALMKOPA_01633	CDS	hypothetical protein		
+PALMKOPA_01634	CDS	arsC	1.20.4.1	Glutaredoxin arsenate reductase
+PALMKOPA_01635	CDS	glpQ_2	3.1.4.46	Glycerophosphodiester phosphodiesterase
+PALMKOPA_01636	CDS	1.-.-.-	putative oxidoreductase	
+PALMKOPA_01637	CDS	putative HTH-type transcriptional regulator		
+PALMKOPA_01638	CDS	fetB	putative iron export permease protein FetB	
+PALMKOPA_01639	CDS	fetA_1	3.6.3.-	putative iron export ATP-binding protein FetA
+PALMKOPA_01640	CDS	fetA_2	3.6.3.-	putative iron export ATP-binding protein FetA
+PALMKOPA_01641	CDS	alsS	2.2.1.6	Acetolactate synthase
+PALMKOPA_01642	CDS	hypothetical protein		
+PALMKOPA_01643	CDS	hypothetical protein		
+PALMKOPA_01644	CDS	hypothetical protein		
+PALMKOPA_01645	CDS	cah	4.2.1.1	Carbonic anhydrase
+PALMKOPA_01646	CDS	carB_4	6.3.5.5	Carbamoyl-phosphate synthase large chain
+PALMKOPA_01647	CDS	carA_3	6.3.5.5	Carbamoyl-phosphate synthase small chain
+PALMKOPA_01648	CDS	rluD_3	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+PALMKOPA_01649	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+PALMKOPA_01650	CDS	hypothetical protein		
+PALMKOPA_01651	CDS	rnhA	14.7 kDa ribonuclease H-like protein	
+PALMKOPA_01652	CDS	hypothetical protein		
+PALMKOPA_01653	CDS	yckB	putative ABC transporter extracellular-binding protein YckB	
+PALMKOPA_01654	CDS	yecS_2	L-cystine transport system permease protein YecS	
+PALMKOPA_01655	CDS	hypothetical protein		
+PALMKOPA_01656	CDS	ptsI_2	2.7.3.9	Phosphoenolpyruvate-protein phosphotransferase
+PALMKOPA_01657	CDS	fucP	L-fucose-proton symporter	
+PALMKOPA_01658	CDS	rbsD	5.4.99.62	D-ribose pyranase
+PALMKOPA_01659	CDS	rbsK/rbiA_2	Bifunctional ribokinase/ribose-5-phosphate isomerase A	
+PALMKOPA_01660	CDS	deoR	Deoxyribonucleoside regulator	
+PALMKOPA_01661	CDS	deoC1	4.1.2.4	Deoxyribose-phosphate aldolase 1
+PALMKOPA_01662	CDS	hypothetical protein		
+PALMKOPA_01663	CDS	rbsK	2.7.1.15	Ribokinase
+PALMKOPA_01664	CDS	gatC_2	PTS system galactitol-specific EIIC component	
+PALMKOPA_01665	CDS	thiI	2.8.1.4	putative tRNA sulfurtransferase
+PALMKOPA_01666	CDS	iscS_1	2.8.1.7	Cysteine desulfurase IscS
+PALMKOPA_01667	CDS	ezrA	Septation ring formation regulator EzrA	
+PALMKOPA_01668	CDS	rpsD	30S ribosomal protein S4	
+PALMKOPA_01669	CDS	sle1	3.5.1.28	N-acetylmuramoyl-L-alanine amidase sle1
+PALMKOPA_01670	CDS	hypothetical protein		
+PALMKOPA_01671	CDS	hypothetical protein		
+PALMKOPA_01672	CDS	hypothetical protein		
+PALMKOPA_01673	CDS	hypothetical protein		
+PALMKOPA_01674	CDS	hypothetical protein		
+PALMKOPA_01675	CDS	hypothetical protein		
+PALMKOPA_01676	CDS	hypothetical protein		
+PALMKOPA_01677	CDS	hypothetical protein		
+PALMKOPA_01678	CDS	hypothetical protein		
+PALMKOPA_01679	CDS	hypothetical protein		
+PALMKOPA_01680	CDS	lexA_2	3.4.21.88	LexA repressor
+PALMKOPA_01681	CDS	mvaS	2.3.3.10	Hydroxymethylglutaryl-CoA synthase
+PALMKOPA_01682	CDS	lutA	Lactate utilization protein A	
+PALMKOPA_01683	CDS	lutB	Lactate utilization protein B	
+PALMKOPA_01684	CDS	lutC	Lactate utilization protein C	
+PALMKOPA_01685	CDS	hypothetical protein		
+PALMKOPA_01686	CDS	hypothetical protein		
+PALMKOPA_01687	CDS	ytrF	ABC transporter permease YtrF	
+PALMKOPA_01688	CDS	xerC_2	Tyrosine recombinase XerC	
+PALMKOPA_01689	CDS	ydjP_2	3.-.-.-	AB hydrolase superfamily protein YdjP
+PALMKOPA_01690	CDS	citG_2	2.4.2.52	2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase
+PALMKOPA_01691	CDS	sorC_2	Sorbitol operon regulator	
+PALMKOPA_01692	CDS	xylB_3	1.1.1.90	Aryl-alcohol dehydrogenase
+PALMKOPA_01693	CDS	hypothetical protein		
+PALMKOPA_01694	CDS	1.1.1.-	L-2-hydroxyisocaproate dehydrogenase	
+PALMKOPA_01695	CDS	gutB	1.1.1.14	Sorbitol dehydrogenase
+PALMKOPA_01696	CDS	yhfP	1.6.5.-	Putative quinone oxidoreductase YhfP
+PALMKOPA_01697	CDS	opuCB_1	Carnitine transport permease protein OpuCB	
+PALMKOPA_01698	CDS	opuCA	3.6.3.32	Carnitine transport ATP-binding protein OpuCA
+PALMKOPA_01699	CDS	opuCB_2	Carnitine transport permease protein OpuCB	
+PALMKOPA_01700	CDS	yehZ	Glycine betaine-binding protein YehZ	
+PALMKOPA_01701	CDS	ywnA_3	Putative HTH-type transcriptional regulator YwnA	
+PALMKOPA_01702	CDS	hypothetical protein		
+PALMKOPA_01703	CDS	paiA	2.3.1.57	Spermidine/spermine N(1)-acetyltransferase
+PALMKOPA_01704	CDS	hypothetical protein		
+PALMKOPA_01705	CDS	hypothetical protein		
+PALMKOPA_01706	CDS	hypothetical protein		
+PALMKOPA_01707	CDS	degA_3	HTH-type transcriptional regulator DegA	
+PALMKOPA_01708	CDS	hypothetical protein		
+PALMKOPA_01709	CDS	hypothetical protein		
+PALMKOPA_01710	tRNA	tRNA-Ser(cga)		
+PALMKOPA_01711	CDS	xerD_4	Tyrosine recombinase XerD	
+PALMKOPA_01712	CDS	hypothetical protein		
+PALMKOPA_01713	CDS	hypothetical protein		
+PALMKOPA_01714	CDS	hypothetical protein		
+PALMKOPA_01715	CDS	hypothetical protein		
+PALMKOPA_01716	CDS	hypothetical protein		
+PALMKOPA_01717	CDS	hypothetical protein		
+PALMKOPA_01718	CDS	ydhP_1	Inner membrane transport protein YdhP	
+PALMKOPA_01719	CDS	mntH_2	Divalent metal cation transporter MntH	
+PALMKOPA_01720	CDS	hypothetical protein		
+PALMKOPA_01721	CDS	accC_2	6.3.4.14	Biotin carboxylase
+PALMKOPA_01722	CDS	accB_2	Biotin carboxyl carrier protein of acetyl-CoA carboxylase	
+PALMKOPA_01723	CDS	kipA	KipI antagonist	
+PALMKOPA_01724	CDS	kipI	Kinase A inhibitor	
+PALMKOPA_01725	CDS	putative HTH-type transcriptional regulator		
+PALMKOPA_01726	CDS	hypothetical protein		
+PALMKOPA_01727	CDS	malL	3.2.1.10	"Oligo-1,6-glucosidase"
+PALMKOPA_01728	CDS	ccpA_3	Catabolite control protein A	
+PALMKOPA_01729	CDS	dinB_1	2.7.7.7	DNA polymerase IV
+PALMKOPA_01730	CDS	hypothetical protein		
+PALMKOPA_01731	CDS	dhaT	1.1.1.202	"1,3-propanediol dehydrogenase"
+PALMKOPA_01732	tRNA	tRNA-Leu(aag)		
+PALMKOPA_01733	CDS	hypothetical protein		
+PALMKOPA_01734	CDS	hypothetical protein		
+PALMKOPA_01735	CDS	padC	4.1.1.-	Phenolic acid decarboxylase PadC
+PALMKOPA_01736	CDS	hypothetical protein		
+PALMKOPA_01737	CDS	ndkA	2.7.4.6	Nucleoside diphosphate kinase
+PALMKOPA_01738	CDS	hypothetical protein		
+PALMKOPA_01739	CDS	tmcA	2.3.1.193	tRNA(Met) cytidine acetyltransferase TmcA
+PALMKOPA_01740	CDS	dxs_2	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+PALMKOPA_01741	CDS	smc_5	Chromosome partition protein Smc	
+PALMKOPA_01742	CDS	hypothetical protein		
+PALMKOPA_01743	CDS	hypothetical protein		
+PALMKOPA_01744	CDS	hypothetical protein		
+PALMKOPA_01745	CDS	hypothetical protein		
+PALMKOPA_01746	CDS	hypothetical protein		
+PALMKOPA_01747	CDS	hypothetical protein		
+PALMKOPA_01748	CDS	hypothetical protein		
+PALMKOPA_01749	CDS	lyc	3.2.1.17	Autolytic lysozyme
+PALMKOPA_01750	CDS	hypothetical protein		
+PALMKOPA_01751	CDS	hypothetical protein		
+PALMKOPA_01752	CDS	dnaC	3.6.4.12	Replicative DNA helicase
+PALMKOPA_01753	CDS	rplI	50S ribosomal protein L9	
+PALMKOPA_01754	CDS	gdpP	3.1.4.-	Cyclic-di-AMP phosphodiesterase GdpP
+PALMKOPA_01755	CDS	rpsR	30S ribosomal protein S18	
+PALMKOPA_01756	CDS	ssbA_1	Single-stranded DNA-binding protein A	
+PALMKOPA_01757	CDS	rpsF	30S ribosomal protein S6	
+PALMKOPA_01758	CDS	nixA	High-affinity nickel-transport protein NixA	
+PALMKOPA_01759	CDS	nadE_2	6.3.5.1	NH(3)-dependent NAD(+) synthetase
+PALMKOPA_01760	CDS	glpF	Glycerol uptake facilitator protein	
+PALMKOPA_01761	CDS	hypothetical protein		
+PALMKOPA_01762	CDS	purE_2	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+PALMKOPA_01763	CDS	hypothetical protein		
+PALMKOPA_01764	CDS	fnr_2	Anaerobic regulatory protein	
+PALMKOPA_01765	CDS	manX	2.7.1.191	PTS system mannose-specific EIIAB component
+PALMKOPA_01766	CDS	sorA	PTS system sorbose-specific EIIC component	
+PALMKOPA_01767	CDS	manZ	PTS system mannose-specific EIID component	
+PALMKOPA_01768	CDS	hypothetical protein		
+PALMKOPA_01769	tmRNA	ssrA	"transfer-messenger RNA, SsrA"	
+PALMKOPA_01770	CDS	srrA	Transcriptional regulatory protein SrrA	
+PALMKOPA_01771	CDS	phoR_2	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+PALMKOPA_01772	CDS	glcU_1	Glucose uptake protein GlcU	
+PALMKOPA_01773	CDS	cycA_2	D-serine/D-alanine/glycine transporter	
+PALMKOPA_01774	CDS	glnQ_3	Glutamine transport ATP-binding protein GlnQ	
+PALMKOPA_01775	CDS	glnP_2	Glutamine transport system permease protein GlnP	
+PALMKOPA_01776	tRNA	tRNA-Pro(cgg)		
+PALMKOPA_01777	CDS	trpS2	6.1.1.2	Tryptophan--tRNA ligase 2
+PALMKOPA_01778	tRNA	tRNA-Glu(ttc)		
+PALMKOPA_01779	CDS	hypothetical protein		
+PALMKOPA_01780	CDS	guaC	1.7.1.7	GMP reductase
+PALMKOPA_01781	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+PALMKOPA_01782	CDS	sad	1.2.1.16	Succinate semialdehyde dehydrogenase [NAD(P)+] Sad
+PALMKOPA_01783	CDS	pyrR	Bifunctional protein pyrR	
+PALMKOPA_01784	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+PALMKOPA_01785	CDS	pyrE_3	2.4.2.10	Orotate phosphoribosyltransferase
+PALMKOPA_01786	CDS	hypothetical protein		
+PALMKOPA_01787	CDS	hypothetical protein		
+PALMKOPA_01788	CDS	dinB_2	2.7.7.7	DNA polymerase IV
+PALMKOPA_01789	CDS	hypothetical protein		
+PALMKOPA_01790	CDS	lytG_2	3.2.1.-	Exo-glucosaminidase LytG
+PALMKOPA_01791	CDS	asnA	6.3.1.1	Aspartate--ammonia ligase
+PALMKOPA_01792	CDS	metE	2.1.1.14	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+PALMKOPA_01793	CDS	luxS	4.4.1.21	S-ribosylhomocysteine lyase
+PALMKOPA_01794	CDS	hssR_2	Heme response regulator HssR	
+PALMKOPA_01795	CDS	hypothetical protein		
+PALMKOPA_01796	CDS	iscS_2	2.8.1.7	Cysteine desulfurase IscS
+PALMKOPA_01797	CDS	hypothetical protein		
+PALMKOPA_01798	CDS	hypothetical protein		
+PALMKOPA_01799	CDS	hypothetical protein		
+PALMKOPA_01800	CDS	hypothetical protein		
+PALMKOPA_01801	CDS	hypothetical protein		
+PALMKOPA_01802	CDS	sph	4.2.1.53	Oleate hydratase
+PALMKOPA_01803	CDS	hypothetical protein		
+PALMKOPA_01804	CDS	garB_1	1.8.1.16	Glutathione amide reductase
+PALMKOPA_01805	CDS	hypothetical protein		
+PALMKOPA_01806	CDS	ydaP	Putative thiamine pyrophosphate-containing protein YdaP	
+PALMKOPA_01807	CDS	hypothetical protein		
+PALMKOPA_01808	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+PALMKOPA_01809	CDS	radA	3.6.4.-	DNA repair protein RadA
+PALMKOPA_01810	CDS	yacL	3.1.-.-	putative PIN and TRAM-domain containing protein YacL
+PALMKOPA_01811	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+PALMKOPA_01812	CDS	hypothetical protein		
+PALMKOPA_01813	CDS	hypothetical protein		
+PALMKOPA_01814	CDS	hypothetical protein		
+PALMKOPA_01815	CDS	hypothetical protein		
+PALMKOPA_01816	CDS	ytbE	1.-.-.-	putative oxidoreductase YtbE
+PALMKOPA_01817	CDS	dkgB	1.1.1.346	"2,5-diketo-D-gluconic acid reductase B"
+PALMKOPA_01818	CDS	1.-.-.-	putative oxidoreductase	
+PALMKOPA_01819	CDS	dhmA	3.8.1.5	Haloalkane dehalogenase
+PALMKOPA_01820	CDS	nfnB_2	1.-.-.-	Nitroreductase NfnB
+PALMKOPA_01821	CDS	hypothetical protein		
+PALMKOPA_01822	CDS	hypothetical protein		
+PALMKOPA_01823	CDS	hypothetical protein		
+PALMKOPA_01824	CDS	bacC_2	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+PALMKOPA_01825	CDS	bglF	PTS system beta-glucoside-specific EIIBCA component	
+PALMKOPA_01826	CDS	treR	HTH-type transcriptional regulator TreR	
+PALMKOPA_01827	CDS	treA	3.2.1.93	Trehalose-6-phosphate hydrolase
+PALMKOPA_01828	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+PALMKOPA_01829	CDS	mrnC	3.1.26.-	Mini-ribonuclease 3
+PALMKOPA_01830	CDS	2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase	
+PALMKOPA_01831	CDS	sigH	RNA polymerase sigma-H factor	
+PALMKOPA_01832	CDS	rpmGA_2	50S ribosomal protein L33 1	
+PALMKOPA_01833	CDS	secE	Protein translocase subunit SecE	
+PALMKOPA_01834	CDS	nusG	Transcription termination/antitermination protein NusG	
+PALMKOPA_01835	CDS	rplK	50S ribosomal protein L11	
+PALMKOPA_01836	CDS	rplA	50S ribosomal protein L1	
+PALMKOPA_01837	CDS	dapE_2	3.5.1.18	putative succinyl-diaminopimelate desuccinylase
+PALMKOPA_01838	CDS	guaD_1	3.5.4.3	Guanine deaminase
+PALMKOPA_01839	CDS	guaD_2	3.5.4.3	Guanine deaminase
+PALMKOPA_01840	CDS	1.1.1.401	2-dehydro-3-deoxy-L-rhamnonate dehydrogenase (NAD(+))	
+PALMKOPA_01841	CDS	hypothetical protein		
+PALMKOPA_01842	CDS	ybaQ	putative HTH-type transcriptional regulator YbaQ	
+PALMKOPA_01843	CDS	gadB	4.1.1.15	Glutamate decarboxylase
+PALMKOPA_01844	CDS	hypothetical protein		
+PALMKOPA_01845	CDS	hypothetical protein		
+PALMKOPA_01846	CDS	ygaZ	Inner membrane protein YgaZ	
+PALMKOPA_01847	CDS	dacA_3	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacA
+PALMKOPA_01848	CDS	resE	2.7.13.3	Sensor histidine kinase ResE
+PALMKOPA_01849	CDS	phoP_2	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP	
+PALMKOPA_01850	CDS	hypothetical protein		
+PALMKOPA_01851	CDS	hypothetical protein		
+PALMKOPA_01852	CDS	hypothetical protein		
+PALMKOPA_01853	CDS	hypothetical protein		
+PALMKOPA_01854	CDS	hypothetical protein		
+PALMKOPA_01855	CDS	hypothetical protein		
+PALMKOPA_01856	CDS	hypothetical protein		
+PALMKOPA_01857	CDS	hypothetical protein		
+PALMKOPA_01858	CDS	hypothetical protein		
+PALMKOPA_01859	CDS	hypothetical protein		
+PALMKOPA_01860	CDS	hypothetical protein		
+PALMKOPA_01861	CDS	hypothetical protein		
+PALMKOPA_01862	CDS	hypothetical protein		
+PALMKOPA_01863	CDS	lysN	2.6.1.39	2-aminoadipate transaminase
+PALMKOPA_01864	CDS	gshAB_4	Glutathione biosynthesis bifunctional protein GshAB	
+PALMKOPA_01865	CDS	artP_2	Arginine-binding extracellular protein ArtP	
+PALMKOPA_01866	CDS	hypothetical protein		
+PALMKOPA_01867	tRNA	tRNA-Glu(ctc)		
+PALMKOPA_01868	CDS	aldC	4.1.1.5	Alpha-acetolactate decarboxylase
+PALMKOPA_01869	CDS	tpiA_2	5.3.1.1	Triosephosphate isomerase
+PALMKOPA_01870	CDS	dkgA	1.1.1.274	"2,5-diketo-D-gluconic acid reductase A"
+PALMKOPA_01871	CDS	hypothetical protein		
+PALMKOPA_01872	CDS	hypothetical protein		
+PALMKOPA_01873	CDS	hypothetical protein		
+PALMKOPA_01874	CDS	hypothetical protein		
+PALMKOPA_01875	CDS	asnB_2	6.3.5.4	Asparagine synthetase B [glutamine-hydrolyzing]
+PALMKOPA_01876	CDS	hypothetical protein		
+PALMKOPA_01877	CDS	ydhP_2	Inner membrane transport protein YdhP	
+PALMKOPA_01878	CDS	naiP_2	Putative niacin/nicotinamide transporter NaiP	
+PALMKOPA_01879	CDS	nadC	2.4.2.19	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+PALMKOPA_01880	CDS	hypothetical protein		
+PALMKOPA_01881	CDS	hypothetical protein		
+PALMKOPA_01882	CDS	hypothetical protein		
+PALMKOPA_01883	CDS	hypothetical protein		
+PALMKOPA_01884	CDS	hypothetical protein		
+PALMKOPA_01885	CDS	hypothetical protein		
+PALMKOPA_01886	CDS	hypothetical protein		
+PALMKOPA_01887	CDS	hypothetical protein		
+PALMKOPA_01888	CDS	copY_2	Transcriptional repressor CopY	
+PALMKOPA_01889	CDS	copB	3.6.3.54	Copper-exporting P-type ATPase B
+PALMKOPA_01890	CDS	hypothetical protein		
+PALMKOPA_01891	CDS	hypothetical protein		
+PALMKOPA_01892	CDS	hypothetical protein		
+PALMKOPA_01893	CDS	hypothetical protein		
+PALMKOPA_01894	CDS	hypothetical protein		
+PALMKOPA_01895	CDS	hypothetical protein		
+PALMKOPA_01896	CDS	hypothetical protein		
+PALMKOPA_01897	CDS	hypothetical protein		
+PALMKOPA_01898	CDS	hypothetical protein		
+PALMKOPA_01899	CDS	hypothetical protein		
+PALMKOPA_01900	CDS	hypothetical protein		
+PALMKOPA_01901	CDS	hypothetical protein		
+PALMKOPA_01902	CDS	hypothetical protein		
+PALMKOPA_01903	CDS	hypothetical protein		
+PALMKOPA_01904	CDS	hypothetical protein		
+PALMKOPA_01905	CDS	yhjE	Inner membrane metabolite transport protein YhjE	
+PALMKOPA_01906	CDS	mhpD_2	4.2.1.80	2-keto-4-pentenoate hydratase
+PALMKOPA_01907	CDS	1.1.1.-	L-2-hydroxyisocaproate dehydrogenase	
+PALMKOPA_01908	CDS	smc_6	Chromosome partition protein Smc	
+PALMKOPA_01909	CDS	hypothetical protein		
+PALMKOPA_01910	CDS	hypothetical protein		
+PALMKOPA_01911	CDS	hypothetical protein		
+PALMKOPA_01912	CDS	hypothetical protein		
+PALMKOPA_01913	CDS	hypothetical protein		
+PALMKOPA_01914	CDS	hypothetical protein		
+PALMKOPA_01915	CDS	hypothetical protein		
+PALMKOPA_01916	CDS	hypothetical protein		
+PALMKOPA_01917	CDS	hypothetical protein		
+PALMKOPA_01918	CDS	hypothetical protein		
+PALMKOPA_01919	CDS	hypothetical protein		
+PALMKOPA_01920	CDS	lytG_3	3.2.1.-	Exo-glucosaminidase LytG
+PALMKOPA_01921	CDS	hypothetical protein		
+PALMKOPA_01922	CDS	hypothetical protein		
+PALMKOPA_01923	CDS	hypothetical protein		
+PALMKOPA_01924	CDS	hypothetical protein		
+PALMKOPA_01925	CDS	hypothetical protein		
+PALMKOPA_01926	CDS	bmr3	Multidrug resistance protein 3	
+PALMKOPA_01927	CDS	hemH	4.99.1.1	Ferrochelatase
+PALMKOPA_01928	CDS	yjeM_2	Inner membrane transporter YjeM	
+PALMKOPA_01929	CDS	kdgR_3	HTH-type transcriptional regulator KdgR	
+PALMKOPA_01930	CDS	hypothetical protein		
+PALMKOPA_01931	CDS	hypothetical protein		
+PALMKOPA_01932	CDS	rfbX_2	Putative O-antigen transporter	
+PALMKOPA_01933	CDS	hypothetical protein		
+PALMKOPA_01934	CDS	bin3_1	Putative transposon Tn552 DNA-invertase bin3	
+PALMKOPA_01935	CDS	hrtA	3.6.3.-	Putative hemin import ATP-binding protein HrtA
+PALMKOPA_01936	CDS	putative ABC transporter permease		
+PALMKOPA_01937	CDS	crtB	2.5.1.99	All-trans-phytoene synthase
+PALMKOPA_01938	CDS	hypothetical protein		
+PALMKOPA_01939	CDS	hypothetical protein		
+PALMKOPA_01940	CDS	nfrA1	1.5.1.38	FMN reductase (NADPH)
+PALMKOPA_01941	tRNA	tRNA-Thr(ggt)		
+PALMKOPA_01942	CDS	Membrane lipoprotein TpN32		
+PALMKOPA_01943	CDS	czrA	HTH-type transcriptional repressor CzrA	
+PALMKOPA_01944	CDS	hypothetical protein		
+PALMKOPA_01945	CDS	pezA	Antitoxin PezA	
+PALMKOPA_01946	CDS	hypothetical protein		
+PALMKOPA_01947	CDS	lacS_2	Lactose permease	
+PALMKOPA_01948	CDS	lacR_2	HTH-type transcriptional regulator LacR	
+PALMKOPA_01949	CDS	hypothetical protein		
+PALMKOPA_01950	CDS	trxA_3	Thioredoxin	
+PALMKOPA_01951	CDS	garB_2	1.8.1.16	Glutathione amide reductase
+PALMKOPA_01952	CDS	hypothetical protein		
+PALMKOPA_01953	CDS	hypothetical protein		
+PALMKOPA_01954	CDS	hypothetical protein		
+PALMKOPA_01955	CDS	maa	2.3.1.79	Maltose O-acetyltransferase
+PALMKOPA_01956	CDS	thpR	3.1.4.-	"RNA 2',3'-cyclic phosphodiesterase"
+PALMKOPA_01957	CDS	hypothetical protein		
+PALMKOPA_01958	CDS	adhA_2	1.1.1.1	Alcohol dehydrogenase 1
+PALMKOPA_01959	CDS	ybiR	Inner membrane protein YbiR	
+PALMKOPA_01960	CDS	hypothetical protein		
+PALMKOPA_01961	CDS	hypothetical protein		
+PALMKOPA_01962	CDS	garK	2.7.1.165	Glycerate 2-kinase
+PALMKOPA_01963	CDS	dsdX	DsdX permease	
+PALMKOPA_01964	CDS	hypothetical protein		
+PALMKOPA_01965	CDS	hypothetical protein		
+PALMKOPA_01966	CDS	hypothetical protein		
+PALMKOPA_01967	CDS	hypothetical protein		
+PALMKOPA_01968	CDS	hypothetical protein		
+PALMKOPA_01969	CDS	hypothetical protein		
+PALMKOPA_01970	CDS	epsF_2	2.4.-.-	Putative glycosyltransferase EpsF
+PALMKOPA_01971	CDS	trxB_2	1.8.1.9	Thioredoxin reductase
+PALMKOPA_01972	CDS	ahpC	1.11.1.15	Alkyl hydroperoxide reductase subunit C
+PALMKOPA_01973	CDS	yitU	3.1.3.-	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+PALMKOPA_01974	CDS	rsmF	2.1.1.-	Ribosomal RNA small subunit methyltransferase F
+PALMKOPA_01975	CDS	rclA_1	putative pyridine nucleotide-disulfide oxidoreductase RclA	
+PALMKOPA_01976	CDS	rclA_2	putative pyridine nucleotide-disulfide oxidoreductase RclA	
+PALMKOPA_01977	CDS	hypothetical protein		
+PALMKOPA_01978	CDS	hypothetical protein		
+PALMKOPA_01979	CDS	Stress response regulator gls24 		
+PALMKOPA_01980	CDS	hypothetical protein		
+PALMKOPA_01981	CDS	hypothetical protein		
+PALMKOPA_01982	CDS	hypothetical protein		
+PALMKOPA_01983	CDS	ribB	4.1.99.12	"3,4-dihydroxy-2-butanone 4-phosphate synthase"
+PALMKOPA_01984	CDS	hypothetical protein		
+PALMKOPA_01985	CDS	hypothetical protein		
+PALMKOPA_01986	CDS	dld	1.1.1.28	D-lactate dehydrogenase
+PALMKOPA_01987	CDS	hypothetical protein		
+PALMKOPA_01988	CDS	hypothetical protein		
+PALMKOPA_01989	CDS	hypothetical protein		
+PALMKOPA_01990	CDS	hypothetical protein		
+PALMKOPA_01991	CDS	hypothetical protein		
+PALMKOPA_01992	CDS	hypothetical protein		
+PALMKOPA_01993	CDS	hypothetical protein		
+PALMKOPA_01994	CDS	hypothetical protein		
+PALMKOPA_01995	CDS	hypothetical protein		
+PALMKOPA_01996	CDS	hypothetical protein		
+PALMKOPA_01997	CDS	hypothetical protein		
+PALMKOPA_01998	CDS	hypothetical protein		
+PALMKOPA_01999	CDS	hypothetical protein		
+PALMKOPA_02000	CDS	xerC_3	Tyrosine recombinase XerC	
+PALMKOPA_02001	CDS	hypothetical protein		
+PALMKOPA_02002	CDS	hypothetical protein		
+PALMKOPA_02003	CDS	ilvE_2	2.6.1.42	putative branched-chain-amino-acid aminotransferase
+PALMKOPA_02004	CDS	lacR_3	HTH-type transcriptional regulator LacR	
+PALMKOPA_02005	CDS	hypothetical protein		
+PALMKOPA_02006	CDS	hypothetical protein		
+PALMKOPA_02007	tRNA	tRNA-Gln(ctg)		
+PALMKOPA_02008	CDS	hypothetical protein		
+PALMKOPA_02009	CDS	dapE_3	3.5.1.18	putative succinyl-diaminopimelate desuccinylase
+PALMKOPA_02010	CDS	hypothetical protein		
+PALMKOPA_02011	CDS	dapA_2	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+PALMKOPA_02012	CDS	hypothetical protein		
+PALMKOPA_02013	CDS	glcU_2	Glucose uptake protein GlcU	
+PALMKOPA_02014	CDS	hypothetical protein		
+PALMKOPA_02015	CDS	hypothetical protein		
+PALMKOPA_02016	CDS	hypothetical protein		
+PALMKOPA_02017	CDS	hypothetical protein		
+PALMKOPA_02018	CDS	hypothetical protein		
+PALMKOPA_02019	CDS	bin3_2	Putative transposon Tn552 DNA-invertase bin3	
+PALMKOPA_02020	CDS	hypothetical protein		
+PALMKOPA_02021	CDS	hypothetical protein		
+PALMKOPA_02022	CDS	hypothetical protein		
+PALMKOPA_02023	CDS	hypothetical protein		
+PALMKOPA_02024	CDS	hypothetical protein		
+PALMKOPA_02025	CDS	hypothetical protein		
+PALMKOPA_02026	CDS	hypothetical protein		
+PALMKOPA_02027	CDS	hypothetical protein		
+PALMKOPA_02028	CDS	hypothetical protein		
+PALMKOPA_02029	CDS	hypothetical protein		
+PALMKOPA_02030	CDS	hypothetical protein		
+PALMKOPA_02031	CDS	hypothetical protein		
+PALMKOPA_02032	CDS	hypothetical protein		
+PALMKOPA_02033	CDS	ssbA_2	Single-stranded DNA-binding protein A	
+PALMKOPA_02034	CDS	hypothetical protein		
+PALMKOPA_02035	CDS	hypothetical protein		
+PALMKOPA_02036	CDS	hypothetical protein		
+PALMKOPA_02037	tRNA	tRNA-Thr(agt)		
+PALMKOPA_02038	tRNA	tRNA-Asn(gtt)		
+PALMKOPA_02039	tRNA	tRNA-Thr(cgt)		
+PALMKOPA_02040	tRNA	tRNA-Ile(gat)		
+PALMKOPA_02041	tRNA	tRNA-Ala(tgc)		
+PALMKOPA_02042	tRNA	tRNA-Lys(ctt)		
+PALMKOPA_02043	tRNA	tRNA-Lys(ctt)		
+PALMKOPA_02044	CDS	hypothetical protein		
+PALMKOPA_02045	CDS	hypothetical protein		
+PALMKOPA_02046	CDS	hypothetical protein		
+PALMKOPA_02047	tRNA	tRNA-Ser(gga)		
+PALMKOPA_02048	tRNA	tRNA-Glu(ttc)		
+PALMKOPA_02049	CDS	hypothetical protein		
+PALMKOPA_02050	tRNA	tRNA-Glu(ttc)		
+PALMKOPA_02051	CDS	hypothetical protein		
+PALMKOPA_02052	CDS	hypothetical protein		
+PALMKOPA_02053	tRNA	tRNA-Val(tac)		
