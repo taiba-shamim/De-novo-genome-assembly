@@ -1,4 +1,5 @@
-<img width="1093" height="454" alt="image" src="https://github.com/user-attachments/assets/bbf4a553-03bc-414b-a358-78320c9e5cd8" />
+<img width="1382" height="833" alt="KEGG-PathwayAnalysis" src="https://github.com/user-attachments/assets/e7e39724-8817-4863-a71e-c09e54c7527b" />
+
 
 
 
