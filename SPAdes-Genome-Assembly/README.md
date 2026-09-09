@@ -1,4 +1,39 @@
-View Assembly graph
+## Step 4 — De novo Genome Assembly
+
+### Tool: SPAdes
+
+The quality-filtered paired-end reads were used for **de novo genome assembly** using **SPAdes**. The assembly was performed without using a reference genome.
+
+### Command
+
+```bash
+spades.py \
+-1 trimmed/SRR36082397_1_trimmed.fastq \
+-2 trimmed/SRR36082397_2_trimmed.fastq \
+-o spades_output
+```
+
+### Output
+
+SPAdes generated the assembled genome in the `spades_output/` directory.
+
+The main assembly files were:
+
+```text
+spades_output/
+├── contigs.fasta
+└── scaffolds.fasta
+```
+
+The primary assembly file used for downstream analysis was:
+
+```text
+spades_output/contigs.fasta
+```
+
+---
+
+## View Assembly graph
 
 **Tool Used**- Bandage
 
