@@ -2,8 +2,6 @@
 
 # Dataset
 
-## Dataset
-
 **SRA Accession:** `SRR36082397`  
 **Organism:** *Limosilactobacillus fermentum*
 
