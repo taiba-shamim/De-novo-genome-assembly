@@ -2,7 +2,7 @@
 
 # Dataset
 
-SRA accession: SRR36082397
+SRA accession: **SRR36082397**
 
 The raw sequencing reads are not included in this repository because of
 file size. They can be retrieved using the SRA Toolkit.
