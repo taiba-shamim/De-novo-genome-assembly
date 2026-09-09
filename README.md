@@ -2,12 +2,27 @@
 
 # Dataset
 
-SRA accession: **SRR36082397**
+## Dataset
 
-The raw sequencing reads are not included in this repository because of
-file size. They can be retrieved using the SRA Toolkit.
+**SRA Accession:** `SRR36082397`  
+**Organism:** *Limosilactobacillus fermentum*
 
-The analysis uses paired-end FASTQ reads generated from the SRA dataset.
+### Dataset Characteristics
+
+| Attribute | Details |
+|---|---|
+| Organism | *Limosilactobacillus fermentum* |
+| SRA Run | `SRR36082397` |
+| Experiment | `SRX31128041` |
+| BioProject | `PRJNA1365830` |
+| Sequencing platform | Illumina NovaSeq X |
+| Sequencing strategy | Whole Genome Sequencing (WGS) |
+| Source | Genomic |
+| Selection | Random |
+| Layout | Paired-end |
+| Library | Whole Genome Library |
+| Sequencing output | ~1.1 Gb |
+| Study | Exploration of quorum quenching *Lactobacillus* sp. for controlling biofilm-forming bacteria causing spoilage of dairy products |
 
 
 ## Pipeline
