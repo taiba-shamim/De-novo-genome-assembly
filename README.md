@@ -135,8 +135,6 @@ The primary assembly file used for downstream analysis was:
 spades_output/contigs.fasta
 ```
 
-```
-
 ---
 
 ## Step 5 — Assembly Quality Assessment
