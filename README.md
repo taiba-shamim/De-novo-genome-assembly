@@ -150,7 +150,9 @@ The assembled contigs were evaluated using **QUAST** to assess the quality and c
 ```bash
 quast spades_output/contigs.fasta \
 -o quast_results
+
 ```
+
 
 ### Assembly Statistics
 
