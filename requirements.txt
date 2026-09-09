@@ -1,1 +1,13 @@
+# Bioinformatics tools used in the genome analysis workflow
 
+SRA Toolkit
+FastQC
+fastp
+SPAdes
+QUAST
+Prokka
+IGV
+Bandage
+
+# Functional and pathway analysis
+KEGG / BlastKOALA
