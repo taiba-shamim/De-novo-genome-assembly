@@ -12,7 +12,7 @@ The analysis uses paired-end FASTQ reads generated from the SRA dataset.
 
 ## Pipeline
 
-<img width="1500" height="2000" alt="Gemini_Generated_Image_4la2d34la2d34la2" src="https://github.com/user-attachments/assets/f7786598-399e-4b5d-87f2-36f52875f88b" />
+<img width="1000" height="2000" alt="Gemini_Generated_Image_4la2d34la2d34la2" src="https://github.com/user-attachments/assets/f7786598-399e-4b5d-87f2-36f52875f88b" />
 
 
 
