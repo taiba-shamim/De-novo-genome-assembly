@@ -278,3 +278,9 @@ The protein FASTA file was submitted to **BlastKOALA** for functional annotation
 - Amino acid biosynthesis
 
 ---
+
+## Author
+
+**Taiba Shamim**  
+M.Sc. Bioinformatics (2024-2026) 
+Department of Computer Science, Jamia Millia Islamia
