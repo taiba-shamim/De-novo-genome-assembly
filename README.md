@@ -1,4 +1,4 @@
-# De novo Genome Assembly and Functional Annotation of Limosilactobacillus fermentum
+# De novo Genome Assembly and Functional Annotation of ***Limosilactobacillus fermentum***
 
 # Dataset
 
