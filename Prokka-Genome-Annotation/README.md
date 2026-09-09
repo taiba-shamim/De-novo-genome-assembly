@@ -33,8 +33,15 @@ prokka spades_output/contigs.fasta \
 | `--prefix`                    | Specifies the prefix for generated files       |
 | `--force`                     | Allows existing output files to be overwritten |
 
+The Prokka output is available in:
 
-## Output 
+```text
+prokka_output/
+```
+
+---
+
+## Output files
 
 | File type | Description                                    |
 | --------- | ---------------------------------------------- |
@@ -51,4 +58,14 @@ The main annotation files are generated with the prefix:
 weblem6_annotation
 
 ```
+### Annotation Summary
+
+| Feature | Count |
+|---|---:|
+| CDS | 1,991 |
+| tRNA | 61 |
+| tmRNA | 1 |
+| Contigs | 582 |
+| Genome size | 2,091,153 bp |
+
 
